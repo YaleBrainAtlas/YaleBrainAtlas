@@ -1,0 +1,25 @@
+.hero {
+
+  .container {
+
+    @include breakpoint-up(large){    
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  
+
+
+
+  &__text {
+    text-align: left;
+
+    @include breakpoint-up(large){
+      flex: 2;
+      order: 1;
+      text-align: left;
+      color: $white;
+    }
+  }
+}

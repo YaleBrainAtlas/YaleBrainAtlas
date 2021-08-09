@@ -1,0 +1,5578 @@
+[
+{
+   "Hemisphere": "Left, Right",
+   "Lobe": "(All)",
+   "Region": "(All)",
+   "Gyrus": "(All)",
+   "Code": "Yale_Brain_Atlas.obj",
+   "Long_name": "Whole Brain"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "L_TP1_A",
+   "Long_name": "Left superior temporal pole A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "L_TP1_B",
+   "Long_name": "Left superior temporal pole B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "L_TP1_C",
+   "Long_name": "Left superior temporal pole B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "L_TP1_D",
+   "Long_name": "Left superior temporal pole C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "L_TP1_E",
+   "Long_name": "Left superior temporal pole D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "L_TP1_F",
+   "Long_name": "Left superior temporal pole F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "L_TP2.1_A",
+   "Long_name": "Left superior middle temporal pole A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "L_TP2.1_B",
+   "Long_name": "Left superior middle temporal pole B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "L_TP2.1_C",
+   "Long_name": "Left superior middle temporal pole C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "L_TP2.1_D",
+   "Long_name": "Left superior middle temporal pole D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "L_TP2.2_A",
+   "Long_name": "Left inferior middle temporal pole A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "L_TP2.2_B",
+   "Long_name": "Left inferior middle temporal pole B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "L_TP2.2_C",
+   "Long_name": "Left inferior middle temporal pole C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "L_TP2.2_D",
+   "Long_name": "Left inferior middle temporal pole D "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "L_TP3_A",
+   "Long_name": "Left inferior temporal pole A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "L_TP3_B",
+   "Long_name": "Left inferior temporal pole B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "L_TP3_C",
+   "Long_name": "Left inferior temporal pole C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "L_TP3_D",
+   "Long_name": "Left inferior temporal pole D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_A",
+   "Long_name": "Left superior temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_B",
+   "Long_name": "Left superior temporal gyrus B "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_C",
+   "Long_name": "Left superior temporal gyrus C "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_D",
+   "Long_name": "Left superior temporal gyrus D "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_E",
+   "Long_name": "Left superior temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_F",
+   "Long_name": "Left superior temporal gyrus F "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "L_T1_G",
+   "Long_name": "Left superior temporal gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_A",
+   "Long_name": "Left superior middle temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_B",
+   "Long_name": "Left superior middle temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_C",
+   "Long_name": "Left superior middle temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_D",
+   "Long_name": "Left superior middle temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_E",
+   "Long_name": "Left superior middle temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_F",
+   "Long_name": "Left superior middle temporal gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior middle temporal gyrus",
+   "Code": "L_T2.1_G",
+   "Long_name": "Left superior middle temporal gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_A",
+   "Long_name": "Left inferior middle temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_B",
+   "Long_name": "Left inferior middle temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_C",
+   "Long_name": "Left inferior middle temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_D",
+   "Long_name": "Left inferior middle temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_E",
+   "Long_name": "Left inferior middle temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_F",
+   "Long_name": "Left inferior middle temporal gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "L_T2.2_G",
+   "Long_name": "Left inferior middle temporal gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "L_T3.1_A",
+   "Long_name": "Left lateral inferior temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "L_T3.1_B",
+   "Long_name": "Left lateral inferior temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "L_T3.1_C",
+   "Long_name": "Left lateral inferior temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "L_T3.1_D",
+   "Long_name": "Left lateral inferior temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "L_T3.1_E",
+   "Long_name": "Left lateral inferior temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "L_T3.1_F",
+   "Long_name": "Left lateral inferior temporal gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "L_T3.2_A",
+   "Long_name": "Left basal inferior temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "L_T3.2_B",
+   "Long_name": "Left basal inferior temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "L_T3.2_C",
+   "Long_name": "Left basal inferior temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "L_T3.2_D",
+   "Long_name": "Left basal inferior temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "L_T3.2_E",
+   "Long_name": "Left basal inferior temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "L_O1_A",
+   "Long_name": "Left superior occipital gyrus A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "L_O1_B",
+   "Long_name": "Left superior occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "L_O1_C",
+   "Long_name": "Left superior occipital gyrus C "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "L_O1_D",
+   "Long_name": "Left superior occipital gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "L_O1_E",
+   "Long_name": "Left superior occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "L_O2.1_A",
+   "Long_name": "Left superior middle occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "L_O2.1_B",
+   "Long_name": "Left superior middle occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "L_O2.1_C",
+   "Long_name": "Left superior middle occipital gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "L_O2.1_D",
+   "Long_name": "Left superior middle occipital gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "L_O2.1_E",
+   "Long_name": "Left superior middle occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_A",
+   "Long_name": "Left inferior middle occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_B",
+   "Long_name": "Left inferior middle occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_C",
+   "Long_name": "Left inferior middle occipital gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_D",
+   "Long_name": "Left inferior middle occipital gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_E",
+   "Long_name": "Left inferior middle occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_F",
+   "Long_name": "Left inferior middle occipital gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_G",
+   "Long_name": "Left inferior middle occipital gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_H",
+   "Long_name": "Left inferior middle occipital gyrus H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_I",
+   "Long_name": "Left inferior middle occipital gyrus I"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_J",
+   "Long_name": "Left inferior middle occipital gyrus J"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "L_O2.2_K",
+   "Long_name": "Left inferior middle occipital gyrus K"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_A",
+   "Long_name": "Left inferior occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_B",
+   "Long_name": "Left inferior occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_C.1",
+   "Long_name": "Left inferior occipital gyrus C superior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_C.2",
+   "Long_name": "Left inferior occipital gyrus C inferior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_D.1",
+   "Long_name": "Left inferior occipital gyrus D superior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_D.2",
+   "Long_name": "Left inferior occipital gyrus D inferior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_E",
+   "Long_name": "Left inferior occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_F",
+   "Long_name": "Left inferior occipital gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_G",
+   "Long_name": "Left inferior occipital gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_H",
+   "Long_name": "Left inferior occipital gyrus H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "L_O3_I",
+   "Long_name": "Left inferior occipital gyrus I"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Fourth occipital gyrus",
+   "Code": "L_O4_A",
+   "Long_name": "Left fourth occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Fourth occipital gyrus",
+   "Code": "L_O4_B",
+   "Long_name": "Left fourth occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Superior angular gyrus",
+   "Code": "L_AN1_A",
+   "Long_name": "Left superior angular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Superior angular gyrus",
+   "Code": "L_AN1_B",
+   "Long_name": "Left superior angular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Superior angular gyrus",
+   "Code": "L_AN1_C",
+   "Long_name": "Left superior angular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "L_AN2_A",
+   "Long_name": "Left inferior angular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "L_AN2_B",
+   "Long_name": "Left inferior angular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "L_AN2_C",
+   "Long_name": "Left inferior angular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Angular",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "L_AN2_D",
+   "Long_name": "Left inferior angular gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "L_SM1_A",
+   "Long_name": "Left supramarginal gyrus 1 A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "L_SM1_B",
+   "Long_name": "Left supramarginal gyrus 1 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "L_SM1_C",
+   "Long_name": "Left supramarginal gyrus 1 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "L_SM1_D",
+   "Long_name": "Left supramarginal gyrus 1 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "L_SM1_E",
+   "Long_name": "Left supramarginal gyrus 1 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 2",
+   "Code": "L_SM2_A",
+   "Long_name": "Left supramarginal gyrus 2 A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 2",
+   "Code": "L_SM2_B",
+   "Long_name": "Left supramarginal gyrus 2 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 3",
+   "Code": "L_SM3_A",
+   "Long_name": "Left supramarginal gyrus 3 A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 3",
+   "Code": "L_SM3_B",
+   "Long_name": "Left supramarginal gyrus 3 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 3",
+   "Code": "L_SM3_C",
+   "Long_name": "Left supramarginal gyrus 3 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 4",
+   "Code": "L_SM4_A",
+   "Long_name": "Left supramarginal gyrus 4 A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 4",
+   "Code": "L_SM4_B",
+   "Long_name": "Left supramarginal gyrus 4 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 4",
+   "Code": "L_SM4_C",
+   "Long_name": "Left supramarginal gyrus 4 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "L_SM5_A",
+   "Long_name": "Left supramarginal gyrus 5 A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "L_SM5_B",
+   "Long_name": "Left supramarginal gyrus 5 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "L_SM5_C",
+   "Long_name": "Left supramarginal gyrus 5 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "L_SM5_D",
+   "Long_name": "Left supramarginal gyrus 5 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Supramarginal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "L_SM5_E",
+   "Long_name": "Left supramarginal gyrus 5 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_A",
+   "Long_name": "Left superior parietal 1 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_B",
+   "Long_name": "Left superior parietal 1 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_C",
+   "Long_name": "Left superior parietal 1 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_D",
+   "Long_name": "Left superior parietal 1 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_E",
+   "Long_name": "Left superior parietal 1 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_F",
+   "Long_name": "Left superior parietal 1 F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "L_P1_G",
+   "Long_name": "Left superior parietal 1 G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "L_P2_A",
+   "Long_name": "Left superior parietal 2 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "L_P2_B",
+   "Long_name": "Left superior parietal 2 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "L_P2_C",
+   "Long_name": "Left superior parietal 2 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "L_P2_D",
+   "Long_name": "Left superior parietal 2 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "L_P3_A",
+   "Long_name": "Left superior parietal 3 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "L_P3_B",
+   "Long_name": "Left superior parietal 3 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "L_P3_C",
+   "Long_name": "Left superior parietal 3 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "L_P3_D",
+   "Long_name": "Left superior parietal 3 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "L_P3_E",
+   "Long_name": "Left superior parietal 3 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "L_P3_F",
+   "Long_name": "Left superior parietal 3 F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_A",
+   "Long_name": "Left superior parietal 4 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_B",
+   "Long_name": "Left superior parietal 4 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_C",
+   "Long_name": "Left superior parietal 4 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_D",
+   "Long_name": "Left superior parietal 4 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_E",
+   "Long_name": "Left superior parietal 4 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_F",
+   "Long_name": "Left superior parietal 4 F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Superior parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "L_P4_G",
+   "Long_name": "Left superior parietal 4 G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_A",
+   "Long_name": "Left somatosensory A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_B",
+   "Long_name": "Left somatosensory B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_C",
+   "Long_name": "Left somatosensory C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_D",
+   "Long_name": "Left somatosensory D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_E",
+   "Long_name": "Left somatosensory E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_F",
+   "Long_name": "Left somatosensory F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_G",
+   "Long_name": "Left somatosensory G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_H",
+   "Long_name": "Left somatosensory H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_I",
+   "Long_name": "Left somatosensory I"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_J",
+   "Long_name": "Left somatosensory J"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_K",
+   "Long_name": "Left somatosensory K"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_L",
+   "Long_name": "Left somatosensory L"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Parietal",
+   "Region": "Sensory",
+   "Gyrus": "Postcentral",
+   "Code": "L_S_M",
+   "Long_name": "Left somatosensory M"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M1",
+   "Code": "L_M1_A",
+   "Long_name": "Left anterior motor A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M1",
+   "Code": "L_M1_B",
+   "Long_name": "Left anterior motor B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M1",
+   "Code": "L_M1_C",
+   "Long_name": "Left anterior motor C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M1",
+   "Code": "L_M1_D",
+   "Long_name": "Left anterior motor D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_A",
+   "Long_name": "Left posterior motor A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_B",
+   "Long_name": "Left posterior motor B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_C",
+   "Long_name": "Left posterior motor C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_D",
+   "Long_name": "Left posterior motor D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_E",
+   "Long_name": "Left posterior motor E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_F",
+   "Long_name": "Left posterior motor F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_G",
+   "Long_name": "Left posterior motor G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_H",
+   "Long_name": "Left posterior motor H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_I",
+   "Long_name": "Left posterior motor I"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_J",
+   "Long_name": "Left posterior motor J"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Motor",
+   "Gyrus": "M2",
+   "Code": "L_M2_K",
+   "Long_name": "Left posterior motor K"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 1",
+   "Code": "L_SF1_A",
+   "Long_name": "Left superior frontal gyrus 1 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 1",
+   "Code": "L_SF1_B",
+   "Long_name": "Left superior frontal gyrus 1 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 1",
+   "Code": "L_SF1_C",
+   "Long_name": "Left superior frontal gyrus 1 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 1",
+   "Code": "L_SF1_D",
+   "Long_name": "Left superior frontal gyrus 1 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 2",
+   "Code": "L_SF2_A",
+   "Long_name": "Left superior frontal gyrus 2 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 2",
+   "Code": "L_SF2_B",
+   "Long_name": "Left superior frontal gyrus 2 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 2",
+   "Code": "L_SF2_C",
+   "Long_name": "Left superior frontal gyrus 2 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 2",
+   "Code": "L_SF2_D",
+   "Long_name": "Left superior frontal gyrus 2 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 3",
+   "Code": "L_SF3_A",
+   "Long_name": "Left superior frontal gyrus 3 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 3",
+   "Code": "L_SF3_B",
+   "Long_name": "Left superior frontal gyrus 3 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 3",
+   "Code": "L_SF3_C",
+   "Long_name": "Left superior frontal gyrus 3 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 3",
+   "Code": "L_SF3_D",
+   "Long_name": "Left superior frontal gyrus 3 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 4",
+   "Code": "L_SF4_A",
+   "Long_name": "Left superior frontal gyrus 4 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 4",
+   "Code": "L_SF4_B",
+   "Long_name": "Left superior frontal gyrus 4 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 4",
+   "Code": "L_SF4_C",
+   "Long_name": "Left superior frontal gyrus 4 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 4",
+   "Code": "L_SF4_D",
+   "Long_name": "Left superior frontal gyrus 4 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 5",
+   "Code": "L_SF5_A",
+   "Long_name": "Left superior frontal gyrus 5 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 5",
+   "Code": "L_SF5_B",
+   "Long_name": "Left superior frontal gyrus 5 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 5",
+   "Code": "L_SF5_C",
+   "Long_name": "Left superior frontal gyrus 5 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 5",
+   "Code": "L_SF5_D",
+   "Long_name": "Left superior frontal gyrus 5 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 6",
+   "Code": "L_SF6_A",
+   "Long_name": "Left superior frontal gyrus 6 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 6",
+   "Code": "L_SF6_B",
+   "Long_name": "Left superior frontal gyrus 6 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 6",
+   "Code": "L_SF6_C",
+   "Long_name": "Left superior frontal gyrus 6 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 6",
+   "Code": "L_SF6_D",
+   "Long_name": "Left superior frontal gyrus 6 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 7",
+   "Code": "L_SF7_A",
+   "Long_name": "Left superior frontal gyrus 7 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 7",
+   "Code": "L_SF7_B",
+   "Long_name": "Left superior frontal gyrus 7 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 7",
+   "Code": "L_SF7_C",
+   "Long_name": "Left superior frontal gyrus 7 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 7",
+   "Code": "L_SF7_D",
+   "Long_name": "Left superior frontal gyrus 7 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 7",
+   "Code": "L_SF7_E",
+   "Long_name": "Left superior frontal gyrus 7 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 8",
+   "Code": "L_SF8_A",
+   "Long_name": "Left superior frontal gyrus 8 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 8",
+   "Code": "L_SF8_B",
+   "Long_name": "Left superior frontal gyrus 8 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 8",
+   "Code": "L_SF8_C",
+   "Long_name": "Left superior frontal gyrus 8 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Superior frontal",
+   "Gyrus": "Superior frontal 8",
+   "Code": "L_SF8_D",
+   "Long_name": "Left superior frontal gyrus 8 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 1",
+   "Code": "L_MF1_A",
+   "Long_name": "Left middle frontal gyrus 1 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 1",
+   "Code": "L_MF1_B",
+   "Long_name": "Left middle frontal gyrus 1 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 1",
+   "Code": "L_MF1_C",
+   "Long_name": "Left middle frontal gyrus 1 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 2",
+   "Code": "L_MF2_A",
+   "Long_name": "Left middle frontal gyrus 2 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 2",
+   "Code": "L_MF2_B",
+   "Long_name": "Left middle frontal gyrus 2 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 2",
+   "Code": "L_MF2_C",
+   "Long_name": "Left middle frontal gyrus 2 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 2",
+   "Code": "L_MF2_D",
+   "Long_name": "Left middle frontal gyrus 2 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 3",
+   "Code": "L_MF3_A",
+   "Long_name": "Left middle frontal gyrus 3 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 3",
+   "Code": "L_MF3_B",
+   "Long_name": "Left middle frontal gyrus 3 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 3",
+   "Code": "L_MF3_C",
+   "Long_name": "Left middle frontal gyrus 3 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 3",
+   "Code": "L_MF3_D",
+   "Long_name": "Left middle frontal gyrus 3 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 4",
+   "Code": "L_MF4_A",
+   "Long_name": "Left middle frontal gyrus 4 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 4",
+   "Code": "L_MF4_B",
+   "Long_name": "Left middle frontal gyrus 4 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 4",
+   "Code": "L_MF4_C",
+   "Long_name": "Left middle frontal gyrus 4 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 4",
+   "Code": "L_MF4_D",
+   "Long_name": "Left middle frontal gyrus 4 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 5",
+   "Code": "L_MF5_A",
+   "Long_name": "Left middle frontal gyrus 5 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 5",
+   "Code": "L_MF5_B",
+   "Long_name": "Left middle frontal gyrus 5 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 5",
+   "Code": "L_MF5_C",
+   "Long_name": "Left middle frontal gyrus 5 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 6",
+   "Code": "L_MF6_A",
+   "Long_name": "Left middle frontal gyrus 6 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 6",
+   "Code": "L_MF6_B",
+   "Long_name": "Left middle frontal gyrus 6 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 6",
+   "Code": "L_MF6_C",
+   "Long_name": "Left middle frontal gyrus 6 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 7",
+   "Code": "L_MF7_A",
+   "Long_name": "Left middle frontal gyrus 7 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 7",
+   "Code": "L_MF7_B",
+   "Long_name": "Left middle frontal gyrus 7 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 7",
+   "Code": "L_MF7_C",
+   "Long_name": "Left middle frontal gyrus 7 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Middle frontal",
+   "Gyrus": "Middle frontal 8",
+   "Code": "L_MF8_A",
+   "Long_name": "Left middle frontal gyrus 8 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars opercularis",
+   "Code": "L_OP_A",
+   "Long_name": "Left pars opercularis A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars opercularis",
+   "Code": "L_OP_B",
+   "Long_name": "Left pars opercularis B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars opercularis",
+   "Code": "L_OP_C",
+   "Long_name": "Left pars opercularis C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars triangularis",
+   "Code": "L_TR1_A",
+   "Long_name": "Left anterior pars triangularis A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars triangularis",
+   "Code": "L_TR1_B",
+   "Long_name": "Left anterior pars triangularis B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars triangularis",
+   "Code": "L_TR2_A",
+   "Long_name": "Left middle pars triangularis A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars triangularis",
+   "Code": "L_TR2_B",
+   "Long_name": "Left middle pars triangularis B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars triangularis",
+   "Code": "L_TR3_A",
+   "Long_name": "Left posterior pars triangularis A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars triangularis",
+   "Code": "L_TR3_B",
+   "Long_name": "Left posterior pars triangularis B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars orbitalis",
+   "Code": "L_OR_A",
+   "Long_name": "Left pars orbitalis A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars orbitalis",
+   "Code": "L_OR_B",
+   "Long_name": "Left pars orbitalis B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Inferior frontal",
+   "Gyrus": "Pars orbitalis",
+   "Code": "L_OR_C",
+   "Long_name": "Left pars orbitalis C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_A",
+   "Long_name": "Left frontal pole 1 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_B",
+   "Long_name": "Left frontal pole 1 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_C",
+   "Long_name": "Left frontal pole 1 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_D",
+   "Long_name": "Left frontal pole 1 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_E",
+   "Long_name": "Left frontal pole 1 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_F",
+   "Long_name": "Left frontal pole 1 F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_G",
+   "Long_name": "Left frontal pole 1 G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "L_FP1_H",
+   "Long_name": "Left frontal pole 1 H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "L_FP2_A",
+   "Long_name": "Left frontal pole 2 A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "L_FP2_B",
+   "Long_name": "Left frontal pole 2 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "L_FP2_C",
+   "Long_name": "Left frontal pole 2 C "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "L_FP2_D",
+   "Long_name": "Left frontal pole 2 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_A",
+   "Long_name": "Left frontal pole 3 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_B",
+   "Long_name": "Left frontal pole 3 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_C",
+   "Long_name": "Left frontal pole 3 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_D",
+   "Long_name": "Left frontal pole 3 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_E",
+   "Long_name": "Left frontal pole 3 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_F",
+   "Long_name": "Left frontal pole 3 F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "L_FP3_G",
+   "Long_name": "Left frontal pole 3 G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "L_FP4_A",
+   "Long_name": "Left frontal pole 4 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "L_FP4_B",
+   "Long_name": "Left frontal pole 4 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "L_FP4_C",
+   "Long_name": "Left frontal pole 4 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "L_FP4_D",
+   "Long_name": "Left frontal pole 4 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "L_FP4_E",
+   "Long_name": "Left frontal pole 4 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "L_FP4_F",
+   "Long_name": "Left frontal pole 4 F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "L_FO1_A",
+   "Long_name": "Left orbitofrontal 1 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "L_FO1_B",
+   "Long_name": "Left orbitofrontal 1 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "L_FO1_C",
+   "Long_name": "Left orbitofrontal 1 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "L_FO1_D",
+   "Long_name": "Left orbitofrontal 1 D "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "L_FO2_A",
+   "Long_name": "Left orbitofrontal 2 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "L_FO2_B",
+   "Long_name": "Left orbitofrontal 2 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "L_FO2_C",
+   "Long_name": "Left orbitofrontal 2 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "L_FO2_D",
+   "Long_name": "Left orbitofrontal 2 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "L_FO2_E",
+   "Long_name": "Left orbitofrontal 2 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "L_FO3_A",
+   "Long_name": "Left orbitofrontal 3 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "L_FO3_B",
+   "Long_name": "Left orbitofrontal 3 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "L_FO3_C",
+   "Long_name": "Left orbitofrontal 3 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "L_FO3_D",
+   "Long_name": "Left orbitofrontal 3 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "L_FO4_A",
+   "Long_name": "Left orbitofrontal 4 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "L_FO4_B",
+   "Long_name": "Left orbitofrontal 4 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "L_FO4_C",
+   "Long_name": "Left orbitofrontal 4 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "L_FO4_D",
+   "Long_name": "Left orbitofrontal 4 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "L_FO5_A",
+   "Long_name": "Left orbitofrontal 5 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "L_FO5_B",
+   "Long_name": "Left orbitofrontal 5 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "L_FO5_C",
+   "Long_name": "Left orbitofrontal 5 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "L_FO5_D",
+   "Long_name": "Left orbitofrontal 5 D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "L_FO5_E",
+   "Long_name": "Left orbitofrontal 5 E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 6",
+   "Code": "L_FO6_A",
+   "Long_name": "Left orbitofrontal 6 A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 6",
+   "Code": "L_FO6_B",
+   "Long_name": "Left orbitofrontal 6 B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Orbital frontal",
+   "Gyrus": "Frontal orbital 6",
+   "Code": "L_FO6_C",
+   "Long_name": "Left orbitofrontal 6 C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "L_LOT_A",
+   "Long_name": "Left lateral occipitotemporal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "L_LOT_B",
+   "Long_name": "Left lateral occipitotemporal gyrus B "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "L_LOT_C",
+   "Long_name": "Left lateral occipitotemporal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "L_LOT_D",
+   "Long_name": "Left lateral occipitotemporal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "L_LOT_E",
+   "Long_name": "Left lateral occipitotemporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_A",
+   "Long_name": "Left medial occipitotemporal gyrus A "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_B",
+   "Long_name": "Left medial occipitotemporal gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_C",
+   "Long_name": "Left medial occipitotemporal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_D",
+   "Long_name": "Left medial occipitotemporal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_E",
+   "Long_name": "Left medial occipitotemporal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_F",
+   "Long_name": "Left medial occipitotemporal gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_G",
+   "Long_name": "Left medial occipitotemporal gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "L_MOT_H",
+   "Long_name": "Left medial occipitotemporal gyrus H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_A",
+   "Long_name": "Left parahippocampal gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_B",
+   "Long_name": "Left parahippocampal gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_C",
+   "Long_name": "Left parahippocampal gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_D",
+   "Long_name": "Left parahippocampal gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_E",
+   "Long_name": "Left parahippocampal gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_F",
+   "Long_name": "Left parahippocampal gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "L_PH_G",
+   "Long_name": "Left parahippocampal gyrus G "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lingual gyrus",
+   "Code": "L_L_A",
+   "Long_name": "Left lingual gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lingual gyrus",
+   "Code": "L_L_B",
+   "Long_name": "Left lingual gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Occipital",
+   "Region": "Inferior temporal-occipital",
+   "Gyrus": "Lingual gyrus",
+   "Code": "L_L_C",
+   "Long_name": "Left lingual gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_A",
+   "Long_name": "Left cingulate gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_B",
+   "Long_name": "Left cingulate gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_C",
+   "Long_name": "Left cingulate gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_D",
+   "Long_name": "Left cingulate gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_E",
+   "Long_name": "Left cingulate gyrus E"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_F",
+   "Long_name": "Left cingulate gyrus F"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_G",
+   "Long_name": "Left cingulate gyrus G"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_H",
+   "Long_name": "Left cingulate gyrus H"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_I",
+   "Long_name": "Left cingulate gyrus I"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_J",
+   "Long_name": "Left cingulate gyrus J"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_K",
+   "Long_name": "Left cingulate gyrus K "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_L",
+   "Long_name": "Left cingulate gyrus L"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_M",
+   "Long_name": "Left cingulate gyrus M"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_N.1",
+   "Long_name": "Left cingulate gyrus N superior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_N.2",
+   "Long_name": "Left cingulate gyrus N inferior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_O",
+   "Long_name": "Left cingulate gyrus O"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_P",
+   "Long_name": "Left cingulate gyrus P"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_Q",
+   "Long_name": "Left cingulate gyrus Q"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Frontal",
+   "Region": "Cingulate",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "L_CG_R",
+   "Long_name": "Left cingulate gyrus R"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Mesial temporal",
+   "Gyrus": "Hippocampus",
+   "Code": "L_H_A",
+   "Long_name": "Left hippocampus pes"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Mesial temporal",
+   "Gyrus": "Hippocampus",
+   "Code": "L_H_B",
+   "Long_name": "Left hippocampus body "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Mesial temporal",
+   "Gyrus": "Hippocampus",
+   "Code": "L_H_C",
+   "Long_name": "Left hippocampus tail"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Mesial temporal",
+   "Gyrus": "Amygdala",
+   "Code": "L_A_A",
+   "Long_name": "Left amygdala superior "
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Temporal",
+   "Region": "Mesial temporal",
+   "Gyrus": "Amygdala",
+   "Code": "L_A_B",
+   "Long_name": "Left amygdala inferior"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Anterior short insular gyrus",
+   "Code": "L_I1_A",
+   "Long_name": "Left anterior short insular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Anterior short insular gyrus",
+   "Code": "L_I1_B",
+   "Long_name": "Left anterior short insular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Anterior short insular gyrus",
+   "Code": "L_I1_C",
+   "Long_name": "Left anterior short insular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior short insular gyrus",
+   "Code": "L_I2_A",
+   "Long_name": "Left middle short insular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior short insular gyrus",
+   "Code": "L_I2_B",
+   "Long_name": "Left middle short insular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior short insular gyrus",
+   "Code": "L_I2_C",
+   "Long_name": "Left middle short insular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Anterior long insular gyrus",
+   "Code": "L_I3_A",
+   "Long_name": "Left posterior short insular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Anterior long insular gyrus",
+   "Code": "L_I3_B",
+   "Long_name": "Left posterior short insular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Anterior long insular gyrus",
+   "Code": "L_I3_C",
+   "Long_name": "Left posterior short insular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "L_I4_A",
+   "Long_name": "Left anterior long insular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "L_I4_B",
+   "Long_name": "Left anterior long insular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "L_I4_C",
+   "Long_name": "Left anterior long insular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "L_I4_D",
+   "Long_name": "Left anterior long insular gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "L_I5_A",
+   "Long_name": "Left posterior long insular gyrus A"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "L_I5_B",
+   "Long_name": "Left posterior long insular gyrus B"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "L_I5_C",
+   "Long_name": "Left posterior long insular gyrus C"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "Insula",
+   "Region": "Insula",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "L_I5_D",
+   "Long_name": "Left posterior long insular gyrus D"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "--",
+   "Region": "Corpus callosum",
+   "Gyrus": "Corpus callosum",
+   "Code": "L_CC_A",
+   "Long_name": "Left corpus callosum genu"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "--",
+   "Region": "Corpus callosum",
+   "Gyrus": "Corpus callosum",
+   "Code": "L_CC_B",
+   "Long_name": "Left corpus callosum body"
+ },
+ {
+   "Hemisphere": "Left",
+   "Lobe": "--",
+   "Region": "Corpus callosum",
+   "Gyrus": "Corpus callosum",
+   "Code": "L_CC_C",
+   "Long_name": "Left corpus callosum splenium"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "R_TP1_A",
+   "Long_name": "Right superior temporal pole A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "R_TP1_B",
+   "Long_name": "Right superior temporal pole B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "R_TP1_C",
+   "Long_name": "Right superior temporal pole B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "R_TP1_D",
+   "Long_name": "Right superior temporal pole C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "R_TP1_E",
+   "Long_name": "Right superior temporal pole D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior temporal pole",
+   "Code": "R_TP1_F",
+   "Long_name": "Right superior temporal pole F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "R_TP2.1_A",
+   "Long_name": "Right superior middle temporal pole A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "R_TP2.1_B",
+   "Long_name": "Right superior middle temporal pole B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "R_TP2.1_C",
+   "Long_name": "Right superior middle temporal pole C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Superior middle temporal pole",
+   "Code": "R_TP2.1_D",
+   "Long_name": "Right superior middle temporal pole D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "R_TP2.2_A",
+   "Long_name": "Right inferior middle temporal pole A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "R_TP2.2_B",
+   "Long_name": "Right inferior middle temporal pole B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "R_TP2.2_C",
+   "Long_name": "Right inferior middle temporal pole C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior middle temporal pole",
+   "Code": "R_TP2.2_D",
+   "Long_name": "Right inferior middle temporal pole D "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "R_TP3_A",
+   "Long_name": "Right inferior temporal pole A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "R_TP3_B",
+   "Long_name": "Right inferior temporal pole B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "R_TP3_C",
+   "Long_name": "Right inferior temporal pole C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal Pole",
+   "Gyrus": "Inferior temporal pole",
+   "Code": "R_TP3_D",
+   "Long_name": "Right inferior temporal pole D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_A",
+   "Long_name": "Right superior temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_B",
+   "Long_name": "Right superior temporal gyrus B "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_C",
+   "Long_name": "Right superior temporal gyrus C "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_D",
+   "Long_name": "Right superior temporal gyrus D "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_E",
+   "Long_name": "Right superior temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_F",
+   "Long_name": "Right superior temporal gyrus F "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior temporal gyrus",
+   "Code": "R_T1_G",
+   "Long_name": "Right superior temporal gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_A",
+   "Long_name": "Right superior middle temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_B",
+   "Long_name": "Right superior middle temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_C",
+   "Long_name": "Right superior middle temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_D",
+   "Long_name": "Right superior middle temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_E",
+   "Long_name": "Right superior middle temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_F",
+   "Long_name": "Right superior middle temporal gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Superior-middle temporal gyrus",
+   "Code": "R_T2.1_G",
+   "Long_name": "Right superior middle temporal gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_A",
+   "Long_name": "Right inferior middle temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_B",
+   "Long_name": "Right inferior middle temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_C",
+   "Long_name": "Right inferior middle temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_D",
+   "Long_name": "Right inferior middle temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_E",
+   "Long_name": "Right inferior middle temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_F",
+   "Long_name": "Right inferior middle temporal gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Inferior middle temporal gyrus",
+   "Code": "R_T2.2_G",
+   "Long_name": "Right inferior middle temporal gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "R_T3.1_A",
+   "Long_name": "Right lateral inferior temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "R_T3.1_B",
+   "Long_name": "Right lateral inferior temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "R_T3.1_C",
+   "Long_name": "Right lateral inferior temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "R_T3.1_D",
+   "Long_name": "Right lateral inferior temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "R_T3.1_E",
+   "Long_name": "Right lateral inferior temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Lateral inferior temporal gyrus",
+   "Code": "R_T3.1_F",
+   "Long_name": "Right lateral inferior temporal gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "R_T3.2_A",
+   "Long_name": "Right basal inferior temporal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "R_T3.2_B",
+   "Long_name": "Right basal inferior temporal gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "R_T3.2_C",
+   "Long_name": "Right basal inferior temporal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "R_T3.2_D",
+   "Long_name": "Right basal inferior temporal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Temporal body",
+   "Gyrus": "Basal inferior temporal gyus",
+   "Code": "R_T3.2_E",
+   "Long_name": "Right basal inferior temporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "R_O1_A",
+   "Long_name": "Right superior occipital gyrus A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "R_O1_B",
+   "Long_name": "Right superior occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "R_O1_C",
+   "Long_name": "Right superior occipital gyrus C "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "R_O1_D",
+   "Long_name": "Right superior occipital gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior occipital gyrus",
+   "Code": "R_O1_E",
+   "Long_name": "Right superior occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "R_O2.1_A",
+   "Long_name": "Right superior middle occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "R_O2.1_B",
+   "Long_name": "Right superior middle occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "R_O2.1_C",
+   "Long_name": "Right superior middle occipital gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "R_O2.1_D",
+   "Long_name": "Right superior middle occipital gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Superior middle occipital gyrus",
+   "Code": "R_O2.1_E",
+   "Long_name": "Right superior middle occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_A",
+   "Long_name": "Right inferior middle occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_B",
+   "Long_name": "Right inferior middle occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_C",
+   "Long_name": "Right inferior middle occipital gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_D",
+   "Long_name": "Right inferior middle occipital gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_E",
+   "Long_name": "Right inferior middle occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_F",
+   "Long_name": "Right inferior middle occipital gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_G",
+   "Long_name": "Right inferior middle occipital gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_H",
+   "Long_name": "Right inferior middle occipital gyrus H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_I",
+   "Long_name": "Right inferior middle occipital gyrus I"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_J",
+   "Long_name": "Right inferior middle occipital gyrus J"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior middle occipital gyrus",
+   "Code": "R_O2.2_K",
+   "Long_name": "Right inferior middle occipital gyrus K"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_A",
+   "Long_name": "Right inferior occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_B",
+   "Long_name": "Right inferior occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_C.1",
+   "Long_name": "Right inferior occipital gyrus C superior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_C.2",
+   "Long_name": "Right inferior occipital gyrus C inferior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_D.1",
+   "Long_name": "Right inferior occipital gyrus D superior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_D.2",
+   "Long_name": "Right inferior occipital gyrus D inferior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_E",
+   "Long_name": "Right inferior occipital gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_F",
+   "Long_name": "Right inferior occipital gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_G",
+   "Long_name": "Right inferior occipital gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_H",
+   "Long_name": "Right inferior occipital gyrus H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Inferior occipital gyrus",
+   "Code": "R_O3_I",
+   "Long_name": "Right inferior occipital gyrus I"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Fourth occipital gyrus",
+   "Code": "R_O4_A",
+   "Long_name": "Right fourth occipital gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Occipital",
+   "Gyrus": "Fourth occipital gyrus",
+   "Code": "R_O4_B",
+   "Long_name": "Right fourth occipital gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior angular gyrus",
+   "Code": "R_AN1_A",
+   "Long_name": "Right superior angular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior angular gyrus",
+   "Code": "R_AN1_B",
+   "Long_name": "Right superior angular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior angular gyrus",
+   "Code": "R_AN1_C",
+   "Long_name": "Right superior angular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "R_AN2_A",
+   "Long_name": "Right inferior angular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "R_AN2_B",
+   "Long_name": "Right inferior angular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "R_AN2_C",
+   "Long_name": "Right inferior angular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Inferior angular gyrus",
+   "Code": "R_AN2_D",
+   "Long_name": "Right inferior angular gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "R_SM1_A",
+   "Long_name": "Right supramarginal gyrus 1 A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "R_SM1_B",
+   "Long_name": "Right supramarginal gyrus 1 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "R_SM1_C",
+   "Long_name": "Right supramarginal gyrus 1 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "R_SM1_D",
+   "Long_name": "Right supramarginal gyrus 1 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 1",
+   "Code": "R_SM1_E",
+   "Long_name": "Right supramarginal gyrus 1 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 2",
+   "Code": "R_SM2_A",
+   "Long_name": "Right supramarginal gyrus 2 A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 2",
+   "Code": "R_SM2_B",
+   "Long_name": "Right supramarginal gyrus 2 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 3",
+   "Code": "R_SM3_A",
+   "Long_name": "Right supramarginal gyrus 3 A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 3",
+   "Code": "R_SM3_B",
+   "Long_name": "Right supramarginal gyrus 3 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 3",
+   "Code": "R_SM3_C",
+   "Long_name": "Right supramarginal gyrus 3 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 4",
+   "Code": "R_SM4_A",
+   "Long_name": "Right supramarginal gyrus 4 A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 4",
+   "Code": "R_SM4_B",
+   "Long_name": "Right supramarginal gyrus 4 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 4",
+   "Code": "R_SM4_C",
+   "Long_name": "Right supramarginal gyrus 4 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "R_SM5_A",
+   "Long_name": "Right supramarginal gyrus 5 A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "R_SM5_B",
+   "Long_name": "Right supramarginal gyrus 5 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "R_SM5_C",
+   "Long_name": "Right supramarginal gyrus 5 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "R_SM5_D",
+   "Long_name": "Right supramarginal gyrus 5 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Supramarginal gyrus 5",
+   "Code": "R_SM5_E",
+   "Long_name": "Right supramarginal gyrus 5 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_A",
+   "Long_name": "Right superior parietal 1 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_B",
+   "Long_name": "Right superior parietal 1 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_C",
+   "Long_name": "Right superior parietal 1 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_D",
+   "Long_name": "Right superior parietal 1 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_E",
+   "Long_name": "Right superior parietal 1 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_F",
+   "Long_name": "Right superior parietal 1 F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 1",
+   "Code": "R_P1_G",
+   "Long_name": "Right superior parietal 1 G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "R_P2_A",
+   "Long_name": "Right superior parietal 2 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "R_P2_B",
+   "Long_name": "Right superior parietal 2 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "R_P2_C",
+   "Long_name": "Right superior parietal 2 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 2",
+   "Code": "R_P2_D",
+   "Long_name": "Right superior parietal 2 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "R_P3_A",
+   "Long_name": "Right superior parietal 3 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "R_P3_B",
+   "Long_name": "Right superior parietal 3 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "R_P3_C",
+   "Long_name": "Right superior parietal 3 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "R_P3_D",
+   "Long_name": "Right superior parietal 3 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "R_P3_E",
+   "Long_name": "Right superior parietal 3 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 3",
+   "Code": "R_P3_F",
+   "Long_name": "Right superior parietal 3 F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_A",
+   "Long_name": "Right superior parietal 4 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_B",
+   "Long_name": "Right superior parietal 4 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_C",
+   "Long_name": "Right superior parietal 4 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_D",
+   "Long_name": "Right superior parietal 4 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_E",
+   "Long_name": "Right superior parietal 4 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_F",
+   "Long_name": "Right superior parietal 4 F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Superior parietal 4",
+   "Code": "R_P4_G",
+   "Long_name": "Right superior parietal 4 G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_A",
+   "Long_name": "Right somatosensory A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_B",
+   "Long_name": "Right somatosensory B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_C",
+   "Long_name": "Right somatosensory C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_D",
+   "Long_name": "Right somatosensory D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_E",
+   "Long_name": "Right somatosensory E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_F",
+   "Long_name": "Right somatosensory F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_G",
+   "Long_name": "Right somatosensory G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_H",
+   "Long_name": "Right somatosensory H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_I",
+   "Long_name": "Right somatosensory I"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_J",
+   "Long_name": "Right somatosensory J"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_K",
+   "Long_name": "Right somatosensory K"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_L",
+   "Long_name": "Right somatosensory L"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Parietal",
+   "Region": "Parietal",
+   "Gyrus": "Somatosensory",
+   "Code": "R_S_M",
+   "Long_name": "Right somatosensory M"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M1_A",
+   "Long_name": "Right anterior motor A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M1_B",
+   "Long_name": "Right anterior motor B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M1_C",
+   "Long_name": "Right anterior motor C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M1_D",
+   "Long_name": "Right anterior motor D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_A",
+   "Long_name": "Right posterior motor A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_B",
+   "Long_name": "Right posterior motor B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_C",
+   "Long_name": "Right posterior motor C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_D",
+   "Long_name": "Right posterior motor D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_E",
+   "Long_name": "Right posterior motor E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_F",
+   "Long_name": "Right posterior motor F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_G",
+   "Long_name": "Right posterior motor G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_H",
+   "Long_name": "Right posterior motor H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_I",
+   "Long_name": "Right posterior motor I"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_J",
+   "Long_name": "Right posterior motor J"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Motor",
+   "Code": "R_M2_K",
+   "Long_name": "Right posterior motor K"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF1_A",
+   "Long_name": "Right superior frontal gyrus 1 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF1_B",
+   "Long_name": "Right superior frontal gyrus 1 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF1_C",
+   "Long_name": "Right superior frontal gyrus 1 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF1_D",
+   "Long_name": "Right superior frontal gyrus 1 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF2_A",
+   "Long_name": "Right superior frontal gyrus 2 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF2_B",
+   "Long_name": "Right superior frontal gyrus 2 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF2_C",
+   "Long_name": "Right superior frontal gyrus 2 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF2_D",
+   "Long_name": "Right superior frontal gyrus 2 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF3_A",
+   "Long_name": "Right superior frontal gyrus 3 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF3_B",
+   "Long_name": "Right superior frontal gyrus 3 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF3_C",
+   "Long_name": "Right superior frontal gyrus 3 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF3_D",
+   "Long_name": "Right superior frontal gyrus 3 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF4_A",
+   "Long_name": "Right superior frontal gyrus 4 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF4_B",
+   "Long_name": "Right superior frontal gyrus 4 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF4_C",
+   "Long_name": "Right superior frontal gyrus 4 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF4_D",
+   "Long_name": "Right superior frontal gyrus 4 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF5_A",
+   "Long_name": "Right superior frontal gyrus 5 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF5_B",
+   "Long_name": "Right superior frontal gyrus 5 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF5_C",
+   "Long_name": "Right superior frontal gyrus 5 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF5_D",
+   "Long_name": "Right superior frontal gyrus 5 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF6_A",
+   "Long_name": "Right superior frontal gyrus 6 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF6_B",
+   "Long_name": "Right superior frontal gyrus 6 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF6_C",
+   "Long_name": "Right superior frontal gyrus 6 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF6_D",
+   "Long_name": "Right superior frontal gyrus 6 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF7_A",
+   "Long_name": "Right superior frontal gyrus 7 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF7_B",
+   "Long_name": "Right superior frontal gyrus 7 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF7_C",
+   "Long_name": "Right superior frontal gyrus 7 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF7_D",
+   "Long_name": "Right superior frontal gyrus 7 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF7_E",
+   "Long_name": "Right superior frontal gyrus 7 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF8_A",
+   "Long_name": "Right superior frontal gyrus 8 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF8_B",
+   "Long_name": "Right superior frontal gyrus 8 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF8_C",
+   "Long_name": "Right superior frontal gyrus 8 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Superior frontal gyrus",
+   "Code": "R_SF8_D",
+   "Long_name": "Right superior frontal gyrus 8 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF1_A",
+   "Long_name": "Right middle frontal gyrus 1 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF1_B",
+   "Long_name": "Right middle frontal gyrus 1 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF1_C",
+   "Long_name": "Right middle frontal gyrus 1 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF2_A",
+   "Long_name": "Right middle frontal gyrus 2 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF2_B",
+   "Long_name": "Right middle frontal gyrus 2 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF2_C",
+   "Long_name": "Right middle frontal gyrus 2 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF2_D",
+   "Long_name": "Right middle frontal gyrus 2 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF3_A",
+   "Long_name": "Right middle frontal gyrus 3 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF3_B",
+   "Long_name": "Right middle frontal gyrus 3 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF3_C",
+   "Long_name": "Right middle frontal gyrus 3 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF3_D",
+   "Long_name": "Right middle frontal gyrus 3 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF4_A",
+   "Long_name": "Right middle frontal gyrus 4 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF4_B",
+   "Long_name": "Right middle frontal gyrus 4 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF4_C",
+   "Long_name": "Right middle frontal gyrus 4 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF4_D",
+   "Long_name": "Right middle frontal gyrus 4 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF5_A",
+   "Long_name": "Right middle frontal gyrus 5 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF5_B",
+   "Long_name": "Right middle frontal gyrus 5 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF5_C",
+   "Long_name": "Right middle frontal gyrus 5 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF6_A",
+   "Long_name": "Right middle frontal gyrus 6 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF6_B",
+   "Long_name": "Right middle frontal gyrus 6 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF6_C",
+   "Long_name": "Right middle frontal gyrus 6 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF7_A",
+   "Long_name": "Right middle frontal gyrus 7 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF7_B",
+   "Long_name": "Right middle frontal gyrus 7 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF7_C",
+   "Long_name": "Right middle frontal gyrus 7 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Middle frontal gyrus",
+   "Code": "R_MF8_A",
+   "Long_name": "Right middle frontal gyrus 8 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars opercularis",
+   "Code": "R_OP_A",
+   "Long_name": "Right pars opercularis A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars opercularis",
+   "Code": "R_OP_B",
+   "Long_name": "Right pars opercularis B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars opercularis",
+   "Code": "R_OP_C",
+   "Long_name": "Right pars opercularis C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars triangularis",
+   "Code": "R_TR1_A",
+   "Long_name": "Right anterior pars triangularis A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars triangularis",
+   "Code": "R_TR1_B",
+   "Long_name": "Right anterior pars triangularis B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars triangularis",
+   "Code": "R_TR2_A",
+   "Long_name": "Right middle pars triangularis A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars triangularis",
+   "Code": "R_TR2_B",
+   "Long_name": "Right middle pars triangularis B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars triangularis",
+   "Code": "R_TR3_A",
+   "Long_name": "Right posterior pars triangularis A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars triangularis",
+   "Code": "R_TR3_B",
+   "Long_name": "Right posterior pars triangularis B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars orbitalis",
+   "Code": "R_OR_A",
+   "Long_name": "Right pars orbitalis A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars orbitalis",
+   "Code": "R_OR_B",
+   "Long_name": "Right pars orbitalis B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal body",
+   "Gyrus": "Pars orbitalis",
+   "Code": "R_OR_C",
+   "Long_name": "Right pars orbitalis C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_A",
+   "Long_name": "Right frontal pole 1 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_B",
+   "Long_name": "Right frontal pole 1 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_C",
+   "Long_name": "Right frontal pole 1 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_D",
+   "Long_name": "Right frontal pole 1 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_E",
+   "Long_name": "Right frontal pole 1 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_F",
+   "Long_name": "Right frontal pole 1 F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_G",
+   "Long_name": "Right frontal pole 1 G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 1",
+   "Code": "R_FP1_H",
+   "Long_name": "Right frontal pole 1 H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "R_FP2_A",
+   "Long_name": "Right frontal pole 2 A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "R_FP2_B",
+   "Long_name": "Right frontal pole 2 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "R_FP2_C",
+   "Long_name": "Right frontal pole 2 C "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 2",
+   "Code": "R_FP2_D",
+   "Long_name": "Right frontal pole 2 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_A",
+   "Long_name": "Right frontal pole 3 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_B",
+   "Long_name": "Right frontal pole 3 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_C",
+   "Long_name": "Right frontal pole 3 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_D",
+   "Long_name": "Right frontal pole 3 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_E",
+   "Long_name": "Right frontal pole 3 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_F",
+   "Long_name": "Right frontal pole 3 F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 3",
+   "Code": "R_FP3_G",
+   "Long_name": "Right frontal pole 3 G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "R_FP4_A",
+   "Long_name": "Right frontal pole 4 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "R_FP4_B",
+   "Long_name": "Right frontal pole 4 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "R_FP4_C",
+   "Long_name": "Right frontal pole 4 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "R_FP4_D",
+   "Long_name": "Right frontal pole 4 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "R_FP4_E",
+   "Long_name": "Right frontal pole 4 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Frontal pole",
+   "Gyrus": "Frontal pole 4",
+   "Code": "R_FP4_F",
+   "Long_name": "Right frontal pole 4 F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "R_FO1_A",
+   "Long_name": "Right orbitofrontal 1 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "R_FO1_B",
+   "Long_name": "Right orbitofrontal 1 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "R_FO1_C",
+   "Long_name": "Right orbitofrontal 1 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 1",
+   "Code": "R_FO1_D",
+   "Long_name": "Right orbitofrontal 1 D "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "R_FO2_A",
+   "Long_name": "Right orbitofrontal 2 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "R_FO2_B",
+   "Long_name": "Right orbitofrontal 2 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "R_FO2_C",
+   "Long_name": "Right orbitofrontal 2 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "R_FO2_D",
+   "Long_name": "Right orbitofrontal 2 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 2",
+   "Code": "R_FO2_E",
+   "Long_name": "Right orbitofrontal 2 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "R_FO3_A",
+   "Long_name": "Right orbitofrontal 3 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "R_FO3_B",
+   "Long_name": "Right orbitofrontal 3 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "R_FO3_C",
+   "Long_name": "Right orbitofrontal 3 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 3",
+   "Code": "R_FO3_D",
+   "Long_name": "Right orbitofrontal 3 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "R_FO4_A",
+   "Long_name": "Right orbitofrontal 4 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "R_FO4_B",
+   "Long_name": "Right orbitofrontal 4 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "R_FO4_C",
+   "Long_name": "Right orbitofrontal 4 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 4",
+   "Code": "R_FO4_D",
+   "Long_name": "Right orbitofrontal 4 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "R_FO5_A",
+   "Long_name": "Right orbitofrontal 5 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "R_FO5_B",
+   "Long_name": "Right orbitofrontal 5 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "R_FO5_C",
+   "Long_name": "Right orbitofrontal 5 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "R_FO5_D",
+   "Long_name": "Right orbitofrontal 5 D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 5",
+   "Code": "R_FO5_E",
+   "Long_name": "Right orbitofrontal 5 E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 6",
+   "Code": "R_FO6_A",
+   "Long_name": "Right orbitofrontal 6 A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 6",
+   "Code": "R_FO6_B",
+   "Long_name": "Right orbitofrontal 6 B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Basal frontal",
+   "Gyrus": "Frontal orbital 6",
+   "Code": "R_FO6_C",
+   "Long_name": "Right orbitofrontal 6 C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "R_LOT_A",
+   "Long_name": "Right lateral occipitotemporal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "R_LOT_B",
+   "Long_name": "Right lateral occipitotemporal gyrus B "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "R_LOT_C",
+   "Long_name": "Right lateral occipitotemporal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "R_LOT_D",
+   "Long_name": "Right lateral occipitotemporal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Lateral occipitotemporal gyrus",
+   "Code": "R_LOT_E",
+   "Long_name": "Right lateral occipitotemporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_A",
+   "Long_name": "Right medial occipitotemporal gyrus A "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_B",
+   "Long_name": "Right medial occipitotemporal gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_C",
+   "Long_name": "Right medial occipitotemporal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_D",
+   "Long_name": "Right medial occipitotemporal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_E",
+   "Long_name": "Right medial occipitotemporal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_F",
+   "Long_name": "Right medial occipitotemporal gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_G",
+   "Long_name": "Right medial occipitotemporal gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Medial occipitotemporal gyrus",
+   "Code": "R_MOT_H",
+   "Long_name": "Right medial occipitotemporal gyrus H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_A",
+   "Long_name": "Right parahippocampal gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_B",
+   "Long_name": "Right parahippocampal gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_C",
+   "Long_name": "Right parahippocampal gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_D",
+   "Long_name": "Right parahippocampal gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_E",
+   "Long_name": "Right parahippocampal gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_F",
+   "Long_name": "Right parahippocampal gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Inferior brain",
+   "Gyrus": "Parahippocampal gyrus",
+   "Code": "R_PH_G",
+   "Long_name": "Right parahippocampal gyrus G "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Inferior brain",
+   "Gyrus": "Lingual gyrus",
+   "Code": "R_L_A",
+   "Long_name": "Right lingual gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Inferior brain",
+   "Gyrus": "Lingual gyrus",
+   "Code": "R_L_B",
+   "Long_name": "Right lingual gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Occipital",
+   "Region": "Inferior brain",
+   "Gyrus": "Lingual gyrus",
+   "Code": "R_L_C",
+   "Long_name": "Right lingual gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_A",
+   "Long_name": "Right cingulate gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_B",
+   "Long_name": "Right cingulate gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_C",
+   "Long_name": "Right cingulate gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_D",
+   "Long_name": "Right cingulate gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_E",
+   "Long_name": "Right cingulate gyrus E"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_F",
+   "Long_name": "Right cingulate gyrus F"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_G",
+   "Long_name": "Right cingulate gyrus G"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_H",
+   "Long_name": "Right cingulate gyrus H"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_I",
+   "Long_name": "Right cingulate gyrus I"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_J",
+   "Long_name": "Right cingulate gyrus J"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_K",
+   "Long_name": "Right cingulate gyrus K "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_L",
+   "Long_name": "Right cingulate gyrus L"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_M",
+   "Long_name": "Right cingulate gyrus M"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_N.1",
+   "Long_name": "Right cingulate gyrus N superior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_N.2",
+   "Long_name": "Right cingulate gyrus N inferior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_O",
+   "Long_name": "Right cingulate gyrus O"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_P",
+   "Long_name": "Right cingulate gyrus P"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_Q",
+   "Long_name": "Right cingulate gyrus Q"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Frontal",
+   "Region": "Medial brain",
+   "Gyrus": "Cingulate gyrus",
+   "Code": "R_CG_R",
+   "Long_name": "Right cingulate gyrus R"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Deep structures",
+   "Gyrus": "Hippocampus",
+   "Code": "R_H_A",
+   "Long_name": "Right hippocampus pes"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Deep structures",
+   "Gyrus": "Hippocampus",
+   "Code": "R_H_B",
+   "Long_name": "Right hippocampus body "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Deep structures",
+   "Gyrus": "Hippocampus",
+   "Code": "R_H_C",
+   "Long_name": "Right hippocampus tail"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Deep structures",
+   "Gyrus": "Amygdala",
+   "Code": "R_A_A",
+   "Long_name": "Right amygdala superior "
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Temporal",
+   "Region": "Deep structures",
+   "Gyrus": "Amygdala",
+   "Code": "R_A_B",
+   "Long_name": "Right amygdala inferior"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Anterior short insular gyrus",
+   "Code": "R_I1_A",
+   "Long_name": "Right anterior short insular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Anterior short insular gyrus",
+   "Code": "R_I1_B",
+   "Long_name": "Right anterior short insular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Anterior short insular gyrus",
+   "Code": "R_I1_C",
+   "Long_name": "Right anterior short insular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior short insular gyrus",
+   "Code": "R_I2_A",
+   "Long_name": "Right middle short insular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior short insular gyrus",
+   "Code": "R_I2_B",
+   "Long_name": "Right middle short insular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior short insular gyrus",
+   "Code": "R_I2_C",
+   "Long_name": "Right middle short insular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Anterior long insular gyrus",
+   "Code": "R_I3_A",
+   "Long_name": "Right posterior short insular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Anterior long insular gyrus",
+   "Code": "R_I3_B",
+   "Long_name": "Right posterior short insular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Anterior long insular gyrus",
+   "Code": "R_I3_C",
+   "Long_name": "Right posterior short insular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "R_I4_A",
+   "Long_name": "Right anterior long insular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "R_I4_B",
+   "Long_name": "Right anterior long insular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "R_I4_C",
+   "Long_name": "Right anterior long insular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Middle long insular gyrus",
+   "Code": "R_I4_D",
+   "Long_name": "Right anterior long insular gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "R_I5_A",
+   "Long_name": "Right posterior long insular gyrus A"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "R_I5_B",
+   "Long_name": "Right posterior long insular gyrus B"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "R_I5_C",
+   "Long_name": "Right posterior long insular gyrus C"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "Insula",
+   "Region": "Deep structures",
+   "Gyrus": "Posterior long insular gyrus",
+   "Code": "R_I5_D",
+   "Long_name": "Right posterior long insular gyrus D"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "--",
+   "Region": "Corpus callosum",
+   "Gyrus": "Corpus callosum",
+   "Code": "R_CC_A",
+   "Long_name": "Right corpus callosum genu"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "--",
+   "Region": "Corpus callosum",
+   "Gyrus": "Corpus callosum",
+   "Code": "R_CC_B",
+   "Long_name": "Right corpus callosum body"
+ },
+ {
+   "Hemisphere": "Right",
+   "Lobe": "--",
+   "Region": "Corpus callosum",
+   "Gyrus": "Corpus callosum",
+   "Code": "R_CC_C",
+   "Long_name": "Right corpus callosum splenium"
+ }
+]

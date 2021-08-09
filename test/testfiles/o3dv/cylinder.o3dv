@@ -1,0 +1,11 @@
+{
+	"meshes" : [
+		{
+			"type" : "cylinder",
+			"parameters" : {
+				"radius" : 0.5,
+				"height" : 1.0
+			}
+		}
+	]
+}

@@ -1,0 +1,862 @@
+@font-face
+{
+	font-family: Quicksand;
+	src: url('../assets/fonts/Quicksand/Quicksand-Regular.ttf');
+}
+
+html, body
+{
+	color: #000000;
+	background: #ffffff;
+	font-size: 16px;
+	font-family: Quicksand, Helvetica, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+a
+{
+	color: #3393bd;
+	text-decoration: none;
+}
+
+img
+{
+	display: block;
+}
+
+div.header
+{
+	overflow: auto;
+}
+
+div.title
+{
+	padding: 6px 10px;
+	overflow: auto;
+}
+
+div.title div.title_left
+{
+	float: left;
+}
+
+div.title img.logo_image
+{
+	height: 40px;
+	float: left;
+}
+
+div.title div.logo_text
+{
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	padding: 10px;
+	float: left;
+}
+
+div.title div.title_right
+{
+	float: right;
+}
+
+div.title_right a
+{
+	padding: 11px 5px;
+	display: block;
+	float: left;
+}
+
+div.title_right img
+{
+	width: 18px;
+	height: 18px;
+}
+
+div.toolbar
+{
+	background: #f5f5f5;
+}
+
+div.intro
+{
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	border: 2px dashed #cccccc;
+	display: none;
+	overflow: auto;
+}
+
+div.intro img.intro_logo
+{
+	display: inline;
+	height: 140px;
+	max-width: 80%;
+}
+
+div.intro div.intro_section
+{
+	font-size: 21px;
+	margin: 50px 0px;
+}
+
+div.intro div.intro_big_text
+{
+	font-size: 30px;
+	line-height: 50px;
+}
+
+div.main
+{
+
+}
+
+div.main_navigator
+{
+	width: 240px;
+	margin: 10px 0px 10px 10px;
+	overflow: none;
+	float: left;
+}
+
+div.main_viewer
+{
+	float: left;
+}
+
+div.main_sidebar
+{
+	width: 300px;
+	margin: 10px 10px 10px 0px;
+	overflow: none;
+	float: right;
+}
+
+div.main_viewer canvas
+{
+	margin: 10px;
+	border: 1px solid #dddddd;
+	outline: none;
+	display: block;
+}
+
+div.embed_viewer
+{
+
+}
+
+div.embed_viewer img.embed_logo
+{
+	height: 40px;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}
+
+div.ov_tooltip
+{
+	color: #000000;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	padding: 5px 10px;
+	border-radius: 5px;
+	position: absolute;
+	box-shadow: 0px 0px 3px #cccccc;
+}
+
+div.ov_toolbar
+{
+	overflow: auto;
+	user-select: none;
+}
+
+div.ov_toolbar div.ov_toolbar_button
+{
+	padding: 10px;
+	float: left;
+	cursor: pointer;
+}
+
+div.ov_toolbar div.ov_toolbar_button
+{
+	padding: 10px;
+	float: left;
+	cursor: pointer;
+}
+
+div.ov_toolbar div.ov_toolbar_button.right
+{
+	float: right;
+}
+
+div.ov_toolbar div.ov_toolbar_button.selected
+{
+	background: #e1e1e1;
+}
+
+div.ov_toolbar img.ov_toolbar_button
+{
+	width: 18px;
+	height: 18px;
+}
+
+div.ov_toolbar div.ov_toolbar_separator
+{
+	background: #cccccc;
+	width: 1px;
+	height: 28px;
+	margin: 5px 8px;
+	float: left;
+}
+
+div.ov_navigator_tree_title
+{
+	font-weight: bold;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #dddddd;
+}
+
+div.ov_navigator_tree_panel
+{
+	overflow: auto;
+	margin-bottom: 10px;
+}
+
+div.ov_navigator_info_panel
+{
+	overflow: auto;
+	border-top: 1px solid #dddddd;
+}
+
+div.ov_navigator_info_panel div.ov_navigator_info_button
+{
+	cursor: pointer;
+	margin-top: 10px;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	overflow: auto;
+}
+
+div.ov_navigator_info_panel div.ov_navigator_info_button_text
+{
+	padding: 5px;
+	float: left;
+}
+
+div.ov_navigator_info_panel img.ov_navigator_info_button_icon
+{
+	width: 18px;
+	height: 18px;
+	padding: 6px;
+	float: right;
+}
+
+div.ov_sidebar_title
+{
+	font-weight: bold;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #dddddd;
+}
+
+div.ov_sidebar_title div.ov_sidebar_title_text
+{
+	float: left;
+}
+
+div.ov_sidebar_title img.ov_sidebar_title_img
+{
+	width: 18px;
+	height: 18px;
+	float: right;
+	cursor: pointer;
+}
+
+div.ov_sidebar_subtitle
+{
+
+}
+
+div.ov_sidebar_content
+{
+	overflow: auto;
+}
+
+div.ov_sidebar_content div.ov_sidebar_settings_content
+{
+	margin: 10px 0px;
+	overflow: auto;
+}
+
+div.ov_sidebar_content div.ov_sidebar_small_column
+{
+	width: 50px;
+	float: left;
+}
+
+div.ov_sidebar_content div.ov_sidebar_column
+{
+	width: 250px;
+	float: left;
+}
+
+div.ov_sidebar_content input.ov_sidebar_color
+{
+	width: 30px;
+	height: 18px;
+}
+
+div.ov_sidebar_content div.ov_sidebar_settings_button
+{
+	color: #3393bd;
+	text-align: right;
+	margin-top: 25px;
+	cursor: pointer;
+}
+
+div.ov_tree_view
+{
+	user-select: none;
+}
+
+div.ov_tree_view div.ov_tree_item
+{
+	overflow: auto;
+	border-radius: 5px;
+	padding-right: 5px;
+}
+
+div.ov_tree_view div.ov_tree_item.selected
+{
+	background: #eeeeee;
+	font-weight: bold;;
+}
+
+div.ov_tree_view div.ov_tree_item.clickable
+{
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+div.ov_tree_view div.ov_tree_item_button_container
+{
+	float: right;
+}
+
+div.ov_tree_view img.ov_tree_item_button
+{
+	width: 18px;
+	height: 18px;
+	padding: 5px;
+	float: left;
+	cursor: pointer;
+}
+
+div.ov_tree_view img.ov_tree_item_icon
+{
+	width: 18px;
+	height: 18px;
+	padding: 5px;
+	float: left;
+}
+
+div.ov_tree_view div.ov_tree_item_name
+{
+	padding: 4px 5px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+div.ov_tree_view div.ov_tree_view_children
+{
+	margin-left: 28px;
+}
+
+div.ov_color_circle
+{
+	background: #ffffff;
+	border: 1px solid #000000;
+	width: 14px;
+	height: 14px;
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: -2px;
+	border-radius: 10px;
+}
+
+div.ov_modal_overlay
+{
+	
+}
+
+div.ov_dialog
+{
+	background: #ffffff;
+	width: 400px;
+	padding: 20px;
+	box-shadow: 0px 0px 10px #cccccc;
+	border-radius: 5px;
+}
+
+div.ov_dialog div.ov_dialog_title
+{
+	font-size: 19px;
+	font-weight: bold;
+}
+
+div.ov_dialog div.ov_dialog_inner_title
+{
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+div.ov_dialog div.ov_dialog_content
+{
+	padding: 20px 0px;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_section
+{
+	margin: 10px 0px;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_buttons
+{
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_buttons_inner
+{
+	float: right;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_button
+{
+	color: #ffffff;
+	background: #3393bd;
+	text-align: center;
+	margin-left: 10px;
+	padding: 3px;
+	width: 80px;
+	border: 1px solid #3393bd;
+	border-radius: 5px;
+	cursor: pointer;
+	float: left;
+}
+
+div.ov_dialog div.ov_dialog_button.outline
+{
+	color: #3393bd;
+	background: transparent;
+}
+
+div.ov_dialog div.ov_dialog_message
+{
+
+}
+
+div.ov_dialog div.ov_dialog_submessage
+{
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+div.ov_dialog textarea.ov_dialog_textarea
+{
+	margin: 10px 0px;
+	width: 100%;
+	height: 120px;
+	border: 1px solid #cccccc;
+	outline: none;
+	box-sizing: border-box;
+}
+
+div.ov_dialog div.ov_dialog_select
+{
+	margin: 20px 0px;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_select_option
+{
+	color: #3393bd;
+	text-align: center;
+	padding: 3px;
+	margin-right: 5px;
+	border: 1px solid #3393bd;
+	border-radius: 5px;
+	cursor: pointer;
+	float: left;
+}
+
+div.ov_dialog div.ov_dialog_select_option.selected
+{
+	color: #ffffff;
+	background: #3393bd;
+}
+
+div.ov_dialog div.ov_dialog_file_list
+{
+	max-height: 105px;
+	overflow: auto;
+}
+
+div.ov_dialog a.ov_dialog_file_link
+{
+	padding: 5px;
+	display: block;
+	overflow: auto;
+	border-radius: 5px;
+}
+
+div.ov_dialog img.ov_dialog_file_link_icon
+{
+	width: 18px;
+	height: 18px;
+	margin-right: 10px;
+	float: left;
+}
+
+div.ov_dialog div.ov_dialog_file_link_text
+{
+	float: left;
+}
+
+div.ov_dialog div.ov_dialog_copyable_input
+{
+	padding: 3px;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_copyable_input input
+{
+	color: #666666;
+	width: 70%;
+	margin-top: 6px;
+	box-sizing: border-box;
+	outline: none;
+	float: left;
+	border: 0px;
+	box-sizing: border-box;
+}
+
+div.ov_dialog div.ov_dialog_copyable_input div.button
+{
+	color: #3393bd;
+	width: 28%;
+	text-align: center;
+	padding: 3px;
+	border: 1px solid #3393bd;
+	border-radius: 5px;
+	box-sizing: border-box;
+	cursor: pointer;
+	float: right;
+}
+
+div.ov_dialog div.ov_dialog_inner_buttons
+{
+	margin-bottom: 10px;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_inner_button
+{
+	color: #3393bd;
+	float: right;
+	cursor: pointer;
+}
+
+div.ov_dialog div.ov_dialog_table_row
+{
+	padding: 2px 0px;
+	overflow: auto;
+}
+
+div.ov_dialog div.ov_dialog_table_row_name
+{
+	width: 140px;
+	float: left;
+}
+
+div.ov_dialog div.ov_dialog_table_row_value
+{
+	float: left;
+}
+
+div.ov_dialog span.ov_dialog_table_row_comment
+{
+	color: #444444;
+	font-size: 15px;
+}
+
+div.ov_dialog input.ov_dialog_checkradio
+{
+	margin-right: 10px;
+}
+
+div.ov_dialog table.ov_dialog_table
+{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+div.ov_dialog table.ov_dialog_table td
+{
+	padding: 5px 10px;
+	border: 1px solid #dddddd;
+}
+
+div.ov_dialog table.ov_dialog_table td.right
+{
+	text-align: right;
+}
+
+div.ov_popup
+{
+	background: #ffffff;
+	width: 200px;
+	padding: 10px;
+	box-shadow: 0px 0px 10px #cccccc;
+	border-radius: 5px;
+}
+
+div.ov_popup div.ov_popup_list
+{
+	max-height: 200px;
+	overflow: auto;
+}
+
+div.ov_popup div.ov_popup_list_item
+{
+	padding: 10px;
+	border-radius: 5px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+div.ov_popup div.ov_popup_list_item_icon
+{
+	float: left;
+}
+
+div.ov_popup div.ov_popup_list_item_name
+{
+
+}
+
+div.ov_progress
+{
+	background: #ffffff;
+	text-align: center;
+	width: 400px;
+	padding: 20px;
+	box-shadow: 0px 0px 10px #cccccc;
+	border-radius: 5px;
+}
+
+div.ov_progress img.ov_progress_img
+{
+	height: 80px;
+	margin-bottom: 10px;
+	display: inline;
+}
+
+div.ov_progress div.ov_progress_text
+{
+	font-size: 19px;
+	text-align: center;
+}
+
+div.ov_property_table
+{
+	
+}
+
+div.ov_property_table_custom
+{
+	margin-top: 8px;
+	padding-top: 8px;
+	border-top: 1px solid #dddddd;
+}
+
+div.ov_property_table div.ov_property_table_row
+{
+	overflow: auto;
+}
+
+div.ov_property_table div.ov_property_table_row.group
+{
+	padding: 4px 0px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;	
+}
+
+div.ov_property_table div.ov_property_table_row.ingroup
+{
+	margin-left: 15px;
+}
+
+div.ov_property_table div.ov_property_table_cell
+{
+	padding: 4px 0px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+div.ov_property_table_custom div.ov_property_table_cell
+{
+	
+}
+
+div.ov_property_table div.ov_property_table_name
+{
+	width: 49%;
+	padding-right: 2%;
+	float: left;
+}
+
+div.ov_property_table div.ov_property_table_value
+{
+	width: 49%;
+	text-align: left;
+	float: left;
+}
+
+div.ov_property_table div.ov_property_table_button
+{
+	color: #3393bd;
+	cursor: pointer;
+}
+
+div.ov_thin_scrollbar
+{
+	scrollbar-color: #cccccc transparent;
+	scrollbar-width: thin;
+}
+
+div.ov_thin_scrollbar::-webkit-scrollbar
+{
+	width: 3px;
+	height: 3px;
+}
+
+div.ov_thin_scrollbar::-webkit-scrollbar-thumb
+{
+	background: #cccccc;
+}
+
+@media (hover)
+{
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+div.ov_toolbar div.ov_toolbar_button:hover
+{
+	background: #c9e5f8;
+}
+
+div.ov_tree_view div.ov_tree_item.clickable:hover
+{
+	background: #e4f4ff;
+}
+
+div.ov_navigator_info_panel div.ov_navigator_info_panel_title:hover
+{
+	background: #e4f4ff;
+}
+
+div.ov_dialog a.ov_dialog_file_link:hover
+{
+	background: #e4f4ff;
+}
+
+div.ov_popup div.ov_popup_list_item:hover
+{
+	background: #e4f4ff;
+}
+
+div.ov_navigator_info_panel div.ov_navigator_info_button:hover
+{
+	background: #e4f4ff;
+}
+
+}
+
+@media only screen and (max-width: 700px)
+{
+
+.only_full_width
+{
+	display: none;
+}
+
+div.intro div.intro_section
+{
+	font-size: 16px;
+	line-height: 20px;
+}
+
+div.intro div.intro_big_text
+{
+	font-size: 18px;
+	line-height: 30px;
+}
+
+div.main_viewer canvas
+{
+	border: 0px;
+	margin: 0px;
+}
+
+div.ov_dialog
+{
+	max-width: 80%;
+}
+
+div.ov_progress
+{
+	max-width: 80%;
+}
+
+}
+
+@media only screen and (max-height: 700px)
+{
+
+.only_full_height
+{
+	display: none;
+}
+
+div.intro div.intro_section
+{
+	margin: 15px 0px;
+}
+
+}

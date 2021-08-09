@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="app/scss/style.css">
+  <title>Yale Brain Atlas</title>
+
+
+</head>
+
+
+<div id = "vanta-canvas">
+    <header class="header">
+      <div class="overlay has-fade"></div>
+  
+      <nav class="container container--pall flex flex-jc-sb flex-ai-c">
+        <a href="atlas_viewer.html" class="header__logo">
+          <img src="images/logo.png" alt="logo"/>
+        </a>
+  
+          <a id="btnHamburger" href="#" class="header__toggle hide-for-desktop">
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+  
+          <div class="header__links hide-for-mobile">
+          </div>
+  
+          <a href="https://github.com/YaleBrainAtlas/YaleBrainAtlas" class="button header__cta hide-for-mobile">Github</a>
+      </nav>
+  
+      <div class="header__menu has-fade">
+        <a href="https://github.com/YaleBrainAtlas/YaleBrainAtlas">Github</a>
+      </div>
+    </header>
+
+
+
+    
+    
+  
+    <script src="three.r119.min.js"></script>
+    <script src="vanta.cells.min.js"></script>
+    <script>
+    VANTA.CELLS({
+      el: "#vanta-canvas",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 90.00,
+      minWidth: 50.00,
+      scale: 1.00,
+      color1: 0x202796,
+      color2: 0xf0c50,
+      size: 1.00,
+      speed: 3
+    })
+    </script> 
+  </div>
+
+
+      
+
+  <!-- libs start -->
+	<script type="text/javascript" src="libs/jquery-3.5.1.min.js"></script>
+	<script type="text/javascript" src="libs/three.min-129.js"></script>
+	<!-- libs end -->
+	
+	<!-- meta start -->
+	<!-- meta end -->
+
+	<!-- importer start -->
+	<script type="text/javascript" src="source/core/core.js"></script>
+	<script type="text/javascript" src="source/core/taskrunner.js"></script>
+	<script type="text/javascript" src="source/geometry/geometry.js"></script>
+	<script type="text/javascript" src="source/geometry/coord2d.js"></script>
+	<script type="text/javascript" src="source/geometry/coord3d.js"></script>
+	<script type="text/javascript" src="source/geometry/quaternion.js"></script>
+	<script type="text/javascript" src="source/geometry/box3d.js"></script>
+	<script type="text/javascript" src="source/geometry/octree.js"></script>
+	<script type="text/javascript" src="source/geometry/matrix.js"></script>
+	<script type="text/javascript" src="source/geometry/transformation.js"></script>
+	<script type="text/javascript" src="source/geometry/tween.js"></script>
+	<script type="text/javascript" src="source/io/binaryreader.js"></script>
+	<script type="text/javascript" src="source/io/binarywriter.js"></script>
+	<script type="text/javascript" src="source/io/textwriter.js"></script>
+	<script type="text/javascript" src="source/io/bufferutils.js"></script>
+	<script type="text/javascript" src="source/io/fileutils.js"></script>
+	<script type="text/javascript" src="source/io/externallibs.js"></script>
+	<script type="text/javascript" src="source/model/material.js"></script>
+	<script type="text/javascript" src="source/model/triangle.js"></script>
+	<script type="text/javascript" src="source/model/property.js"></script>
+	<script type="text/javascript" src="source/model/element.js"></script>
+	<script type="text/javascript" src="source/model/mesh.js"></script>
+	<script type="text/javascript" src="source/model/meshbuffer.js"></script>
+	<script type="text/javascript" src="source/model/model.js"></script>
+	<script type="text/javascript" src="source/model/topology.js"></script>
+	<script type="text/javascript" src="source/model/modelutils.js"></script>
+	<script type="text/javascript" src="source/model/modelfinalization.js"></script>
+	<script type="text/javascript" src="source/model/quantities.js"></script>
+	<script type="text/javascript" src="source/model/generator.js"></script>
+	<script type="text/javascript" src="source/import/importerutils.js"></script>
+	<script type="text/javascript" src="source/import/importerbase.js"></script>
+	<script type="text/javascript" src="source/import/importerobj.js"></script>
+	<script type="text/javascript" src="source/import/importerstl.js"></script>
+	<script type="text/javascript" src="source/import/importeroff.js"></script>
+	<script type="text/javascript" src="source/import/importerply.js"></script>
+	<script type="text/javascript" src="source/import/importer3ds.js"></script>
+	<script type="text/javascript" src="source/import/importergltf.js"></script>
+	<script type="text/javascript" src="source/import/importero3dv.js"></script>
+	<script type="text/javascript" src="source/import/importer.js"></script>
+	<script type="text/javascript" src="source/import/importer3dm.js"></script>
+	<script type="text/javascript" src="source/import/importerifc.js"></script>
+	<script type="text/javascript" src="source/export/exporterbase.js"></script>
+	<script type="text/javascript" src="source/export/exporterobj.js"></script>
+	<script type="text/javascript" src="source/export/exporterstl.js"></script>
+	<script type="text/javascript" src="source/export/exporterply.js"></script>
+	<script type="text/javascript" src="source/export/exporteroff.js"></script>
+	<script type="text/javascript" src="source/export/exportergltf.js"></script>
+	<script type="text/javascript" src="source/export/exporter3dm.js"></script>
+	<script type="text/javascript" src="source/export/exporter.js"></script>
+	<script type="text/javascript" src="source/threejs/threeutils.js"></script>
+	<script type="text/javascript" src="source/threejs/threeconverter.js"></script>
+	<script type="text/javascript" src="source/threejs/threemodelloader.js"></script>
+	<script type="text/javascript" src="source/parameters/parameterlist.js"></script>
+	<script type="text/javascript" src="source/viewer/domutils.js"></script>
+	<script type="text/javascript" src="source/viewer/navigation.js"></script>
+	<script type="text/javascript" src="source/viewer/viewer.js"></script>
+	<script type="text/javascript" src="source/viewer/domviewer.js"></script>
+	<!-- importer end -->
+	
+	<!-- website start -->
+	<script type="text/javascript" src="website/o3dv/featureset.js"></script>
+	<script type="text/javascript" src="website/o3dv/utils.js"></script>
+	<script type="text/javascript" src="website/o3dv/cookies.js"></script>
+	<script type="text/javascript" src="website/o3dv/toolbar.js"></script>
+	<script type="text/javascript" src="website/o3dv/treeview.js"></script>
+	<script type="text/javascript" src="website/o3dv/modal.js"></script>
+	<script type="text/javascript" src="website/o3dv/dialogs.js"></script>
+	<script type="text/javascript" src="website/o3dv/openurldialog.js"></script>
+	<script type="text/javascript" src="website/o3dv/exportdialog.js"></script>
+	<script type="text/javascript" src="website/o3dv/sharingdialog.js"></script>
+	<script type="text/javascript" src="website/o3dv/cookiedialog.js"></script>
+	<script type="text/javascript" src="website/o3dv/modeldata.js"></script>
+	<script type="text/javascript" src="website/o3dv/navigator.js"></script>
+	<script type="text/javascript" src="website/o3dv/sidebarpanel.js"></script>
+	<script type="text/javascript" src="website/o3dv/detailssidebarpanel.js"></script>
+	<script type="text/javascript" src="website/o3dv/settingssidebarpanel.js"></script>
+	<script type="text/javascript" src="website/o3dv/sidebar.js"></script>
+	<script type="text/javascript" src="website/o3dv/hashhandler.js"></script>
+	<!--link rel="stylesheet" type="text/css" href="website/o3dv/website.css"-->
+	<script type="text/javascript" src="website/o3dv/loader.js"></script>
+	<script type="text/javascript" src="website/o3dv/website.js"></script>
+	<script type="text/javascript" src="website/o3dv/embed.js"></script>
+	<!-- website end -->
+
+	<!-- externals start -->
+	<script type="text/javascript">
+		OV.ExternalLibLocation = 'libs';
+	</script>
+	<!-- externals end -->
+
+	<script type="text/javascript">
+		$(window).on ('load', function () {
+			let website = new OV.Website ({
+				headerDiv : $('#header'),
+				toolbarDiv : $('#toolbar'),
+				mainDiv : $('#main'),
+				introDiv : $('#intro'),
+				navigatorDiv : $('#main_navigator'),
+				sidebarDiv : $('#main_sidebar'),
+				viewerDiv : $('#main_viewer'),
+				fileInput : $('#open_file')
+			});
+			website.Load ();
+
+			// set location hash to your self-hosted files so the website will load them automatically
+			window.location.hash = 'model=Yale_Brain_Atlas.obj,Yale_Brain_Atlas.mtl';
+		});
+
+	</script>
+
+	<!-- analytics start -->
+	<!-- analytics end -->
+
+	<!-- script start -->
+	<!-- script end -->
+
+
+  <body style = "overflow:hidden;color: #000000; background: #ffffff; font-size: 16px">
+
+
+  
+<!--div class="article_md__viewer"-->
+  
+	<input type="file" id="open_file" style="display:none;" multiple></input>
+	<div class="header" id="header"></div>
+    <div class="title">
+      <div class="title_left">
+        <a href="atlas_viewer.html">
+          <img class="logo_image" src="images/logo_viewer.png"></img>
+        </a>
+      </div>
+      <div class="title_right" id="header_buttons"></div>
+    </div>
+		
+		<div class="toolbar" id="toolbar"></div>
+	
+	<div class="main" id="main">
+		<div class="main_navigator only_full_width" id="main_navigator">
+		</div>
+		<div class="main_viewer" id="main_viewer">
+		</div>
+		<div class="main_sidebar only_full_width" id="main_sidebar">
+		</div>
+	</div>
+<!--/div-->
+
+
+<!--footer class="footer">
+  <div class="container">
+    
+        <div class="footer__links col1">
+          <a href="index.html">Home</a>
+          <a href="https://github.com/YaleBrainAtlas/YaleBrainAtlas">Github</a>
+        </div>
+    
+        <div class="footer__links col2">
+          <a href="methods.html">Methods</a>
+          <a href="contact.html">Contact</a>
+        </div>
+    
+        <div class="footer__cta">
+          <a href="index.html#vanta-canvas-4" class="button">Learn more</a>
+        </div>
+    
+        <div class="footer__copyright">
+          Web Project by Evan
+        </div>
+
+  </div>    
+</footer-->
+
+
+
+  <script src="app/js/script.js"></script>
+  <!--script src="https://github.com/YaleBrainAtlas/YaleBrainAtlas/blob/main/app/js/script.js"></script>-->
+</body>
+</html>
