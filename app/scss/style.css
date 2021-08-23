@@ -294,9 +294,8 @@ button:hover::before, .button:hover::before {
 .article_md__content {
   background-color: white;
   border-radius: 8px;
-  padding-bottom: 1.5rem;
-  border: solid 2px black;
-  margin: 2% 2%;
+  border: solid 3px black;
+  margin: 0.5% 0.5%;
 }
 
 .article_md__viewer {
