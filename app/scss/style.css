@@ -147,6 +147,10 @@ a, a:visited, a:hover {
   text-decoration: none;
 }
 
+.viewer_box {
+  height: 100%;
+}
+
 .container {
   max-width: 69.375rem;
   margin: 0 auto;
@@ -394,6 +398,11 @@ div.intro div.intro_big_text {
   line-height: 50px;
 }
 
+div.main {
+  overflow: auto;
+  max-height: 100%;
+}
+
 div.main_navigator {
   width: 240px;
   margin: 10px 0px 10px 10px;
@@ -494,7 +503,7 @@ div.ov_navigator_tree_panel {
 }
 
 div.ov_navigator_info_panel {
-  overflow: auto;
+  /*overflow: auto;*/
   border-top: 1px solid #dddddd;
 }
 
@@ -516,6 +525,7 @@ div.ov_navigator_info_panel img.ov_navigator_info_button_icon {
   height: 18px;
   padding: 6px;
   float: right;
+  overflow: auto;
 }
 
 div.ov_sidebar_title {
@@ -540,12 +550,12 @@ div.ov_sidebar_title img.ov_sidebar_title_img {
 }
 
 div.ov_sidebar_content {
-  overflow: none;
+  overflow: auto;
 }
 
 div.ov_sidebar_content div.ov_sidebar_settings_content {
   margin: 10px 0px;
-  overflow: none;
+  overflow: auto;
 }
 
 div.ov_sidebar_content div.ov_sidebar_small_column {
@@ -1031,7 +1041,7 @@ div.ov_thin_scrollbar::-webkit-scrollbar-thumb {
 }
 
 .header__logo img {
-  height: 7.5rem;
+  height: 5rem;
 }
 
 .header__toggle > span {

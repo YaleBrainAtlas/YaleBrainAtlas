@@ -66,6 +66,10 @@ a, a:visited, a:hover {
   text-decoration: none;
 }
 
+.viewer_box {
+	height: 100%;
+}
+
 // Spacing
 .container {
   max-width: 69.375rem;
@@ -310,7 +314,8 @@ div.intro div.intro_big_text
 
 div.main
 {
-
+	overflow: auto;
+	max-height: 100%;
 }
 
 div.main_navigator
@@ -430,7 +435,7 @@ div.ov_navigator_tree_panel
 
 div.ov_navigator_info_panel
 {
-	overflow: auto;
+	/*overflow: auto;*/
 	border-top: 1px solid #dddddd;
 }
 
@@ -455,6 +460,7 @@ div.ov_navigator_info_panel img.ov_navigator_info_button_icon
 	height: 18px;
 	padding: 6px;
 	float: right;
+	overflow: auto;
 }
 
 div.ov_sidebar_title
@@ -488,13 +494,13 @@ div.ov_sidebar_subtitle
 
 div.ov_sidebar_content
 {
-	overflow: none;
+	overflow: auto;
 }
 
 div.ov_sidebar_content div.ov_sidebar_settings_content
 {
 	margin: 10px 0px;
-	overflow: none;
+	overflow: auto;
 }
 
 div.ov_sidebar_content div.ov_sidebar_small_column
@@ -592,11 +598,6 @@ div.ov_color_circle
 	margin-right: 5px;
 	margin-bottom: -2px;
 	border-radius: 10px;
-}
-
-div.ov_modal_overlay
-{
-	
 }
 
 div.ov_dialog
