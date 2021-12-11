@@ -1,6 +1,6 @@
 ---
 title: "Systematic Anatomical Parcellation of the Human Cortex"
-author: "Evan Collins, Hari McGrath, Hitten P Zaveri, Xenophon Papademetris, Kun Wu, Dennis D Spencer"
+author: ""
 date: "22 August 2021"
 output:
   html_document:
@@ -27,23 +27,31 @@ div.main-container {
 
 # Rationale
 
-Current whole-brain cortical atlases present limitations for standardizing the reporting of neuroscience data relative to neuroanatomy. Functional parcellations are often not intuitive in their naming and parcellation structures, hindering their value in clinical conference settings. Parcellations defined according to micro- and macro-neuroanatomical features are commonly limited in their application by the imprecision of sub-gyral localizations due to high inter-individual anatomical variability. We aimed to address these limitations with the development of a whole-brain atlas of the cortex, systematically parcellated into approximately 1 cm sections along gyri according to common neuroanatomical landmarks and in keeping with the unit of localization in epilepsy surgery – the intracranial electrode. 
+Multimodal neuroimaging data produced for epilepsy surgery evaluation uses disparate software, resolutions, and visualizations. Current human brain atlases are limited in localizing these diverse modalities in a standardized, communicable way. This motivates our development of a precise anatomical brain atlas to bring neuroimaging data into a common resolution to enable effective, communicable comparison between modalities. We create Yale Brain Atlas consisting of 696 parcels, each approximately 1cm2 to reflect the standard 1cm inter-contact distance of electrode contacts used for iEEG monitoring in epilepsy surgery. We develop accompanying software to aggregate multimodal data and display on the atlas. With 696 parcels, the Yale Brain Atlas has a parcel count sufficiently large to capture signal heterogeneity yet sufficiently small to enable effective communication in clinical setting.
 
 # Methods
 
-The atlas was built on the MNI 152 template and was segmented into regions based on robust anatomical landmarks. Cortical boundaries were defined by correlating labelled images in Duvernoy’s Atlas of the Human Brain with cortical features on the MNI brain rendered in FSLeyes. ITK-SNAP was used to measure and label the 1 cm parcels along the three 2D windows (axial, coronal, and sagittal) before being rendered in 3D. A standardized nomenclature was defined for the parcels based on local common anatomy, and color coding was added to elucidate regional boundaries. We verified the accuracy of atlas localizations using Yale BioImage Suite to register T1 MRI images and intracranial electrode locations from 20 individuals to the MNI 152 brain. 
+Yale Brain Atlas is built on the MNI 152 template and is segmented into regions based on robust anatomical landmarks. Cortical boundaries are defined by correlating labelled images in Duvernoy’s Atlas of the Human Brain (Duvernoy 1999) with cortical features on the MNI 152 brain rendered in FSLeyes. ITK-SNAP is used to measure and label the 1cm parcels along axial, coronal, and sagittal windows. A standardized nomenclature is defined for the parcels based on local common anatomy, and color coding is added to elucidate regional boundaries. The accuracy of atlas localizations is verified using Yale BioImage Suite to register T1 MRI images and intracranial electrode locations from 20 individuals. Each parcel is approximately 1cm2 to reflect the standard 1cm inter-contact distance for iEEG monitoring in epilepsy surgery. Multimodal data is acquired and visualized on the atlas: two fMRI tasks for 15 epilepsy patients, functional stimulation mapping for 5 epilepsy patients, and average white matter connectivity. A web application is developed as database and visualization software to store and display data on the atlas.
 
 # Results 
 
-We created a whole-brain atlas of the cortex with 692 parcels and 96 regions (Fig.). Each parcel has a unique code, indicating the gyrus and the centimeter increment where it lies along the gyrus. Each lobe has an associated color, and gyri within the lobe are variations on that color. On verification of the 2024 electrode contacts assessed for accuracy, the overall coregistration accuracy was 96.1% relative to common neuroanatomical landmarks, indicating a robust registration protocol that would reliably facilitate clinical communication of individual data. 
+We created a brain atlas with 696 anatomically-derived parcels and 142 gyri across the neocortex, hippocampus, amygdala, insula, and corpus callosum (Fig.). Each parcel has a unique code, indicating the gyrus and the centimeter increment where it lies along the gyrus. Each lobe has an associated color, and gyri within the lobe are variations on that color. On verification of the 2024 electrode contacts assessed for accuracy, the overall coregistration accuracy was 96.1% relative to common neuroanatomical landmarks, indicating a robust registration protocol that would reliably facilitate clinical communication of individual data. We developed accompanying database and visualization software to store and display data on Yale Brain Atlas.
 
 # Conclusions 
 
-We have created a novel cortical atlas consisting of 692 parcels, each defined in relation to common neuroanatomical landmarks across many individuals. The atlas provides a standardized nomenclature for communicating locations in the brain to the nearest centimeter of cortex in research and clinical settings. The atlas is also a substrate for the organization of multimodal data into a database, with functional parameters in the brain localized to the level of a parcel. 
+We created a novel brain atlas consisting of 696 parcels, each defined in relation to common neuroanatomical landmarks across many individuals. The atlas provides a standardized nomenclature for communicating locations in the brain to the nearest centimeter of cortex in research and clinical settings. The atlas is also a substrate for the organization of multimodal data into a database, with functional parameters in the brain localized to the level of a parcel.
 
 # Funding
 
 Department of Neurosurgery, Yale School of Medicine
+
+# Figure
+
+Yale Brain Atlas cnosists of 696 parcels and 142 gyri across the neocortext, hippocampus, amygdala, insula, and corpus callosum.
+
+<center>
+![](/Users/Evan/Desktop/Epilepsy_research/YaleBrainAtlas/atlasfigure.png){width=90%}
+</center>
 
 
  
