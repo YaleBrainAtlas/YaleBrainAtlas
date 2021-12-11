@@ -47,7 +47,7 @@ Department of Neurosurgery, Yale School of Medicine
 
 # Figure
 
-Yale Brain Atlas cnosists of 696 parcels and 142 gyri across the neocortext, hippocampus, amygdala, insula, and corpus callosum.
+Yale Brain Atlas cnosists of 696 parcels and 142 gyri across the neocortex, hippocampus, amygdala, insula, and corpus callosum.
 
 <center>
 ![](/Users/Evan/Desktop/Epilepsy_research/YaleBrainAtlas/atlasfigure.png){width=90%}
