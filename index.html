@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background-color: #0F0E4E; height: 100%; margin: 0;">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
@@ -27,38 +27,48 @@
           </a>
   
           <div class="header__links hide-for-mobile">
-            <a href="index.html">Home</a><a href="viewer.html">Viewer</a><a href="database.html">Parcelsynth</a><a href="resources.html">Resources</a><a href="methods.html">Methods</a>
+            <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
           </div>
   
-          <a href="https://github.com/YaleBrainAtlas/YaleBrainAtlas" class="button header__cta hide-for-mobile"><!--img src="images/yaleneuroanalytics.png" width="250"-->Github</a>
+          <a href="https://medicine.yale.edu/lab/ynn/" target="_blank" class="button header__cta hide-for-mobile">Lab Website</a>
       </nav>
   
+      <div class="header__menu has-fade">
+        <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
+      </div>
+  
+
+      </nav>
+        </div>
+      </section>
+
+      <div class="header__menu has-fade">
+        <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
+      </div>
+  
+      </header>
 
       <section class="hero">
-        <div class="container">
-            <div class="hero__image"></div>
-            
+        <div class="container">  
             <div class="hero__text container--pall" style="position:relative">
               <h1>
                 Yale Brain Atlas
               </h1>
               <p>
-                High resolution anatomical human brain atlas with localized multimodal data.
+                High-resolution anatomical human brain atlas with localized multimodal data.
               </p>
-              <a href="viewer.html" class="button hero__cta">Explore</a>
+              <a href="atlas_viewer.html" class="button hero__cta">Explore</a>
+            </div>
+            <div class="hero__image">
+              <div class="brain3D" style="width:20%">
+                <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+                      <model-viewer style="width: 400px; height:400px" src="images/yba.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" exposure="1" auto-rotate camera-orbit="71.75deg 87.32deg 379.4m" field-of-view="30deg" environment-image="legacy">
+                    </model-viewer>
+              </div>
             </div>
         </div>
       </section>
 
-      <div class="header__menu has-fade" style="top:150px">
-        <a href="index.html">Home</a>
-        <a href="viewer.html">Viewer</a>
-        <a href="database.html">Parcelsynth</a>
-        <a href="resources.html">Resources</a>
-        <a href="methods.html">Methods</a>
-      </div>
-  
-      </header>
       </div>
 
 
@@ -66,91 +76,25 @@
     
     
   
-    <script src="three.r119.min.js"></script>
-    <script src="vanta.cells.min.js"></script>
+    <script src="libs/three.r119.min.js"></script>
+    <script src="libs/vanta.cells.min.js"></script>
     <script>
     VANTA.CELLS({
       el: "#vanta-canvas",
       mouseControls: true,
       touchControls: true,
       gyroControls: false,
-      minHeight: 400.00,
+      minHeight: 520.00,
       minWidth: 200.00,
       scale: 1.00,
       color1: 0x202796,
       color2: 0xf0c50,
       size: 1.00,
-      speed: 3
+      speed: 0.8
     })
     </script> 
   </div>
   
-  <section class="feature">
-    <div id = "vanta-canvas-2">
-      <div class="feature__content container container--pall">
-
-        <div class="feature__intro">
-            <h2>Features</h2>
-        </div>
-    
-        <div class="feature__grid">
-        
-          <div class="feature__item">
-            <!--<div class="feature__icon"><img src="/images/icon-onboarding.svg" /></div>-->
-            <div class="feature__title">
-              Atlas
-            </div>
-            <div class="feature__description">
-              Use the Atlas Viewer to inspect the 696 parcels of the Yale Brain Atlas.
-            </div>
-          </div>
-
-          <div class="feature__item">
-            <!--<div class="feature__icon"><img src="/images/icon-budgeting.svg" /></div>-->
-            <div class="feature__title">
-              Parcelsynth
-            </div>
-            <div class="feature__description">
-              Explore fMRI data across 14,371 studies localized to each parcel of the Yale Brain Atlas. Click on parcel to discover function. Search by functional term to discover localization.
-            </div>
-          </div>
-
-          <div class="feature__item">
-            <!--<div class="feature__icon"><img src="/images/icon-online.svg" /></div>-->
-            <div class="feature__title">
-              Educational Resources
-            </div>
-            <div class="feature__description">
-              Access robust educational resources. The intuitive parcel nomenclature of the Yale Brain Atlas makes it ideal for learning neuroanatomy.
-            </div>
-          </div>
-    
-          
-    
-        </div>
-    </div>
-  </div>
-  <script src="p5.min.js"></script>
-  <script src="vanta.topology.min.js"></script>
-  <script>
-  VANTA.TOPOLOGY({
-    el: "#vanta-canvas-2",
-    mouseControls: true,
-    touchControls: true,
-    gyroControls: false,
-    minHeight: 200.00,
-    minWidth: 200.00,
-    scale: 1.00,
-    scaleMobile: 1.00,
-    color: 0xc4c3ca,
-    backgroundColor: 0xffffff
-  })
-  </script>
-</section>
-
-    
-  
-
   </section>
     </div>
       
@@ -159,40 +103,40 @@
       <div id = "vanta-canvas-4">
         <div class="article__content container container--pall">
     
-          <h2>Details</h2>
+          <h2>Features</h2>
       
           <div class="article__grid">
       
-            <a href="viewer.html" class="article__item">
-              <div class="article__image" style="background-image: url('images/image-nav.png')"></div>
+            <a href="atlas_viewer.html" class="article__item">
+              <div class="article__image" style="background-image: url('images/parcels.png')"></div>
               <div class="article__text">
                 <!-- <div class="article__author">By Evan Collins</div> -->
-                <div class="article__title">Use the Viewer</div>
-                <div class="article__description">This page outlines how to use the Viewer to inspect the parcels. This is entirely open-source.</div>
+                <div class="article__title">Explore the parcels</div>
+                <div class="article__description">Use this viewer for exploring the parcels of the Yale Brain Atlas.</div>
               </div>
             </a>
       
-            <a href="database.html" class="article__item">
-              <div class="article__image" style="background-image: url('images/image-data.png')"></div>
+            <a href="multimodal_menu.html" class="article__item">
+              <div class="article__image" style="background-image: url('images/multimodal.png')"></div>
               <div class="article__text">
-                <div class="article__title">Explore Parcelsynth</div>
-                <div class="article__description">This page outlines how to explore fMRI data across 14,371 studies localized to each parcel of the Yale Brain Atlas.</div>
+                <div class="article__title">Explore multimodal data</div>
+                <div class="article__description">Use these viewers for visualizing multimodal data in Yale Brain Atlas space.</div>
               </div>
             </a>
       
-            <a href="resources.html" class="article__item">
-              <div class="article__image" style="background-image: url('images/image-rainbow.jpg')"></div>
+            <a href="publications.html" class="article__item">
+              <div class="article__image" style="background-image: url('images/publications.png')"></div>
               <div class="article__text">
-                <div class="article__title">Access Educational Resources</div>
-                <div class="article__description">This page outlines the robust educational resources included with the Yale Brain Atlas, including the object file for 3D printing!</div>
+                <div class="article__title">Read publications</div>
+                <div class="article__description">See a list of publications describing the creation and applications of Yale Brain Atlas.</div>
               </div>
             </a>
       
-            <a href="methods.html" class="article__item">
-              <div class="article__image" style="background-image: url('images/image-rainbow.jpg')"></div>
+            <a href="download.html" class="article__item">
+              <div class="article__image" style="background-image: url('images/database.png')"></div>
               <div class="article__text">
-                <div class="article__title">Read more about methodology</div>
-                <div class="article__description">This page includes the theory underlying the development of the Yale Brain Atlas.</div>
+                <div class="article__title">Download data</div>
+                <div class="article__description">Download files for Yale Brain Atlas and multimodal data.</div>
               </div>
             </a>
       
@@ -200,8 +144,8 @@
         </div>
         </div>
         
-        <script src="three.r119.min.js"></script>
-        <script src="vanta.net.min.js"></script>
+        <script src="libs/three.r119.min.js"></script>
+        <script src="libs/vanta.net.min.js"></script>
         <script>
         
         VANTA.NET({
@@ -214,7 +158,7 @@
           scale: 1.00,
           scaleMobile: 1.00,
           color: 0x81352,
-          backgroundColor: 0xcfcfcf
+          backgroundColor: 0xFAFAFA
         })
         </script>
       
@@ -229,26 +173,23 @@
 
   <footer class="footer">
     <div class="container">
-
-
           <div class="footer__links col1">
             <a href="#">Home</a>
-            <a href="https://github.com/YaleBrainAtlas/YaleBrainAtlas">Github</a>
+            <a href="viewer_menu.html">Viewer</a>
           </div>
       
           <div class="footer__links col2">
-            <a href="methods.html">Methods</a>
-            <a href="https://medicine.yale.edu/lab/ynn/">Lab Website</a>
+            <a href="publications.html">Publications</a>
+            <a href="download.html">Download</a>
           </div>
       
           <div class="footer__cta">
-            <a href="#vanta-canvas-4" class="button">Learn more</a>
+            <a href="https://medicine.yale.edu/lab/ynn/" target="_blank" class="button">Lab Website</a>
           </div>
       
           <div class="footer__copyright">
-            Web Project by Evan
+            © Yale Clinical Neuroscience Neuroanalytics (2025)
           </div>
-
     </div>    
   </footer>
   <script src="app/js/script.js"></script>

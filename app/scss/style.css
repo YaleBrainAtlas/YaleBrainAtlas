@@ -1456,3 +1456,16 @@ div.ov_thin_scrollbar::-webkit-scrollbar-thumb {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+.brain3D { display:none; }
+
+/* Desktop*/
+@media screen and (min-width: 64em) {
+  .brain3D  { display: block; }
+}
+
+.hero__image {
+  flex: 1; /* Allocate equal space for the 3D model section */
+  order: 2; /* Ensure the 3D model is placed second in the flex layout */
+}
+

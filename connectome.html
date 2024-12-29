@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="app/scss/style.css">
+  <title>Yale Brain Atlas</title>
+
+</head>
+<body>
+  <div id = "vanta-canvas">
+    <header class="header">
+      <div class="overlay has-fade"></div>
+  
+      <nav class="container container--pall flex flex-jc-sb flex-ai-c">
+        <a href="index.html" class="header__logo">
+          <img src="images/logo.png" alt="logo"/>
+        </a>
+  
+          <a id="btnHamburger" href="#" class="header__toggle hide-for-desktop">
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+  
+          <div class="header__links hide-for-mobile">
+            <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
+          </div>
+  
+          <a href="https://medicine.yale.edu/lab/ynn/" target="_blank" class="button header__cta hide-for-mobile">Lab Website</a>
+      </nav>
+  
+      <div class="header__menu has-fade">
+        <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
+      </div>
+  
+    </header>
+
+
+    <script src="libs/three.r119.min.js"></script>
+    <script src="libs/vanta.cells.min.js"></script>
+    <script>
+    VANTA.CELLS({
+      el: "#vanta-canvas",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 90.00,
+      minWidth: 50.00,
+      scale: 1.00,
+      color1: 0x202796,
+      color2: 0xf0c50,
+      size: 1.00,
+      speed: 3
+    })
+    </script> 
+  </div>
+</div>
+
+  <iframe src="https://evan-collins.shinyapps.io/Connectome" height="1100" width="100%"></iframe>
+  
+  <!--footer class="footer">
+    <div class="container">
+          <div class="footer__links col1">
+            <a href="#">Home</a>
+            <a href="viewer_menu.html">Viewer</a>
+          </div>
+      
+          <div class="footer__links col2">
+            <a href="publications.html">Publications</a>
+            <a href="download.html">Download</a>
+          </div>
+      
+          <div class="footer__cta">
+            <a href="https://medicine.yale.edu/lab/ynn/" target="_blank" class="button">Lab Website</a>
+          </div>
+      
+          <div class="footer__copyright">
+            © Yale Clinical Neuroscience Neuroanalytics (2025)
+          </div>
+    </div>    
+  </footer-->
+  <script src="app/js/script.js"></script>
+</body>
+</html>

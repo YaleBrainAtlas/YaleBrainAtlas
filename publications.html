@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #0F0E4E; height: 100%; margin: 0;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="app/scss/style.css">
+  <title>Yale Brain Atlas</title>
+
+</head>
+<body>
+  <div id = "vanta-canvas">
+    <header class="header">
+      <div class="overlay has-fade"></div>
+  
+      <nav class="container container--pall flex flex-jc-sb flex-ai-c">
+        <a href="index.html" class="header__logo">
+          <img src="images/logo.png" alt="logo"/>
+        </a>
+  
+          <a id="btnHamburger" href="#" class="header__toggle hide-for-desktop">
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+  
+          <div class="header__links hide-for-mobile">
+            <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
+          </div>
+  
+          <a href="https://medicine.yale.edu/lab/ynn/" target="_blank" class="button header__cta hide-for-mobile">Lab Website</a>
+      </nav>
+  
+      <div class="header__menu has-fade">
+        <a href="index.html">Home</a><a href="viewer_menu.html">Viewer</a><a href="publications.html">Publications</a><a href="download.html">Download</a>
+      </div>
+  
+    </header>
+
+
+
+    
+    
+  
+    <script src="libs/three.r119.min.js"></script>
+    <script src="libs/vanta.cells.min.js"></script>
+    <script>
+    VANTA.CELLS({
+      el: "#vanta-canvas",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 90.00,
+      minWidth: 50.00,
+      scale: 1.00,
+      color1: 0x202796,
+      color2: 0xf0c50,
+      size: 1.00,
+      speed: 0.8
+    })
+    </script> 
+  </div>
+</div>
+  
+
+</section>
+</div>
+  
+
+<section class="articles">
+    <div class="article__content container container--pall">
+
+      <h2>Publications</h2>
+      <h4>Below are the publications detailing the creation and applications of Yale Brain Atlas (YBA). More publications coming soon!</h4>
+  
+      <div class="article__grid">
+  
+        <a href="https://www.nature.com/articles/s41598-022-21543-3" target="_blank" class="article__item">
+          <div class="article__image" style="background-image: url('images/mcgrath_fig1.png')"></div>
+          <div class="article__text">
+            <div class="article__title">Creating YBA</div>
+            <div class="article__description">McGrath et al. outlines creating the parcellation and nomenclature of YBA.</div>
+            <br>
+            <div class="article__description"><i>Scientific Reports</i> (2022)</div>
+          </div>
+        </a>
+
+        <a href="https://www.nature.com/articles/s41467-024-51395-6" target="_blank" class="article__item">
+          <div class="article__image" style="background-image: url('images/collins_fig3.png')"></div>
+          <div class="article__text">
+            <div class="article__title">Using YBA to map structure-function relationships</div>
+            <div class="article__description">Collins et al. describes how structure-function coupling varies by region and function in the brain using YBA.</div>
+            <br>
+            <div class="article__description"><i>Nature Communications</i> (2024)</div>
+          </div>
+        </a>
+
+        <a href="https://www.sciencedirect.com/science/article/pii/S1935861X24000470" target="_blank" class="article__item">
+          <div class="article__image" style="background-image: url('images/sivaraju_fig2.png')"></div>
+          <div class="article__text">
+            <div class="article__title">Using YBA to localize stimulation sites for identifying seizure onset zones</div>
+            <div class="article__description">Sivaraju et al. localizes 1 Hz direct electrical stimulation sites in YBA to identify seizure onset zones.</div>
+            <br>
+            <div class="article__description"><i>Brain Stimulation</i> (2024)</div>
+          </div>
+        </a>
+  
+  
+      </div>
+    </div>
+    </div>
+  
+  
+    </section>
+
+
+</section>
+
+  <!--<footer class="footer" style="position: absolute; bottom: 0; width: 100%;">-->
+    <footer class="footer">
+      <div class="container">
+            <div class="footer__links col1">
+              <a href="#">Home</a>
+              <a href="viewer_menu.html">Viewer</a>
+            </div>
+        
+            <div class="footer__links col2">
+              <a href="publications.html">Publications</a>
+              <a href="download.html">Download</a>
+            </div>
+        
+            <div class="footer__cta">
+              <a href="https://medicine.yale.edu/lab/ynn/" target="_blank" class="button">Lab Website</a>
+            </div>
+        
+            <div class="footer__copyright">
+              © Yale Clinical Neuroscience Neuroanalytics (2025)
+            </div>
+      </div>    
+    </footer>
+
+  <script src="app/js/script.js"></script>
+</body>
+</html>
