@@ -10,7 +10,7 @@
 
 This repository contains contains all code needed to run [the website for the Yale Brain Atlas](https://yalebrainatlas.github.io/YaleBrainAtlas/). Additionally, this repository stores all data for Yale Brain Atlas and its multimodal neuroimaging data in the `/data` folder.
 
-This repository was introduced as part of our paper "The Yale Brain Atlas to interactively explore multimodal structural and functional neuroimaging data".
+This repository was introduced as part of our paper "The Yale Brain Atlas to interactively explore multimodal structural and functional neuroimaging data" (currently under review).
 
 
 
