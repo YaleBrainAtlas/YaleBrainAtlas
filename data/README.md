@@ -51,6 +51,9 @@ The data repository is structured as follows:
 
   -	3D mesh
 
+  - Surface (.annot) files in FSaverage space for Free Surfer
+
+
 - `/rsfMRI`: contains the resting-state fMRI (rsfMRI) pairwise correlation connectivity matrices for 34 healthy adult subjects. Specifically, this folder contains...
 
   - rsfMRI pairwise Pearson correlation coefficients between parcels for each subject
